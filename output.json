@@ -1,0 +1,1923 @@
+{
+  "paging": {
+    "is_end": false,
+    "next": "https://api.zhihu.com/search_v3?advert_count=0\u0026correction=1\u0026filter_fields=\u0026gk_version=gz-gaokao\u0026lc_idx=0\u0026limit=20\u0026offset=20\u0026q=%E5%85%A8%E6%A0%88\u0026search_hash_id=7458d7e271d06fe62c89a7e0028774dd\u0026search_source=Normal\u0026show_all_topics=0\u0026t=general\u0026vertical_info=0%2C1%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C2"
+  },
+  "data": [
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "一朋友A，Base北京，目前在一家小公司，今年刚刚换的工作， 一人、两周、+ChatGPT、+Midjourney = 上线的一个完整应用。这个是新时代的\u003cem\u003e全栈\u003c/em\u003e避讳的潮流！全",
+        "title": "什么叫\u003cem\u003e全栈\u003c/em\u003e工程师，需要具备哪些知识和技能？"
+      },
+      "object": {
+        "original_id": "609672473",
+        "id": "3187742751",
+        "type": "answer",
+        "excerpt": "一朋友A，Base北京，目前在一家小公司，今年刚刚换的工作， 一人、两周、+ChatGPT、+Midjourney = 上线的一个完整应用。这个是新时代的\u003cem\u003e全栈\u003c/em\u003e避讳的潮流！全",
+        "url": "https://api.zhihu.com/answers/3187742751",
+        "voteup_count": 505,
+        "comment_count": 82,
+        "favorites_count": 0,
+        "created_time": 1693286592,
+        "updated_time": 1704635676,
+        "content": "\u003cp data-pid=\"6Ump_P2e\"\u003e一朋友A，Base北京，目前在一家小公司，今年刚刚换的工作， 一人、两周、+ChatGPT、+Midjourney = 上线的一个完整应用。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://picx.zhimg.com/v2-73c79865adc467324a23c7de107cac07_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"955\" data-rawheight=\"429\" data-original-token=\"v2-6f64fb35df44de707a2669b18ea33834\" class=\"origin_image zh-lightbox-thumb\" width=\"955\" data-original=\"https://picx.zhimg.com/v2-73c79865adc467324a23c7de107cac07_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;955\u0026#39; height=\u0026#39;429\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"955\" data-rawheight=\"429\" data-original-token=\"v2-6f64fb35df44de707a2669b18ea33834\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"955\" data-original=\"https://picx.zhimg.com/v2-73c79865adc467324a23c7de107cac07_r.jpg\" data-actualsrc=\"https://picx.zhimg.com/v2-73c79865adc467324a23c7de107cac07_b.jpg\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"SWBZhHbL\"\u003e这个是新时代的全栈避讳的潮流！\u003c/p\u003e\u003ch2\u003e全栈工程师的定义\u003c/h2\u003e\u003cp data-pid=\"3QoscwEW\"\u003e全栈工程师是一位能够从头到尾构建 Web 应用程序的工程师，能独立完成产品。技术包括前端部分、后端部分和应用程序所在的基础架构。他们在整个技术栈中工作，并了解其中的每个部分。从需求分析开始，到概要设计，详细设计，产品原型，页面切图，界面实现，服务端开发，数据库存取，应用发布及服务器管理，系统测试，运维售后等等。缺你不可，有你就行。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://picx.zhimg.com/v2-8028b82e71fc4f690be8d211a484a405_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"790\" data-rawheight=\"439\" data-original-token=\"v2-53d0e2e72487b32225e1ed428df72377\" class=\"origin_image zh-lightbox-thumb\" width=\"790\" data-original=\"https://picx.zhimg.com/v2-8028b82e71fc4f690be8d211a484a405_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;790\u0026#39; height=\u0026#39;439\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"790\" data-rawheight=\"439\" data-original-token=\"v2-53d0e2e72487b32225e1ed428df72377\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"790\" data-original=\"https://picx.zhimg.com/v2-8028b82e71fc4f690be8d211a484a405_r.jpg\" data-actualsrc=\"https://picx.zhimg.com/v2-8028b82e71fc4f690be8d211a484a405_b.jpg\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"bVGrLZ1w\"\u003e一个合格的全栈开发者，必然会一下几们语言：\u003c/p\u003e\u003cul\u003e\u003cli data-pid=\"NHxTN9z4\"\u003eRN 开发移动端\u003c/li\u003e\u003cli data-pid=\"gBzNFmvK\"\u003eReact 开发 SPA，中后台等\u003c/li\u003e\u003cli data-pid=\"C2SK2MF5\"\u003eNextjs,Remix 开发 SSR 网站\u003c/li\u003e\u003cli data-pid=\"3AumzhG5\"\u003eTaro 开发跨平台小程序\u003c/li\u003e\u003cli data-pid=\"iBWJCiAc\"\u003eElectron 开发桌面软件\u003c/li\u003e\u003cli data-pid=\"Wr79xo77\"\u003eFastify,Nestjs 开发后端\u003c/li\u003e\u003cli data-pid=\"g6GjEMoj\"\u003eYargs 与周边一些工具可构建强大的 CLI\u003c/li\u003e\u003cli data-pid=\"Rtd7HZkf\"\u003e微服务，爬虫，区跨链\u003c/li\u003e\u003c/ul\u003e\u003ch2\u003e接下来我们看一则招聘：\u003c/h2\u003e\u003cp data-pid=\"-9vaRsTS\"\u003e\u003cb\u003e职位要求\u003c/b\u003e\u003c/p\u003e\u003cp data-pid=\"KZhON8gx\"\u003e精通javascript+css3+html+vue/react相关前端技术栈。能够独立负责中型以上前端项目。\u003c/p\u003e\u003cp data-pid=\"ugHoxuRe\"\u003e熟练掌握webpack/npm/nodejs相关知识。具备构建可扩展、易于维护的前端项目的能力。\u003c/p\u003e\u003cp data-pid=\"m74TClCp\"\u003e熟练掌握go/java/python任意一种语言，维护过任一但不限于springMVC、express、koa、flask等后端服务项目。了解基本数据库知识。\u003c/p\u003e\u003cp data-pid=\"NwypsMRb\"\u003e了解基本的计算机/网络基本知识\u003c/p\u003e\u003cp data-pid=\"DF0EBu4D\"\u003e熟悉Docker、k8s等云原生相关知识及相关实践。\u003c/p\u003e\u003cp data-pid=\"DU2-fJhZ\"\u003e熟悉AI平台工作流程，了解并使用过一种以上机器学习框架（tf、pytorch等）。\u003c/p\u003e\u003cp data-pid=\"jSGFxXhW\"\u003e具备一定产品思维、能够独立设计小型功能模块。\u003c/p\u003e\u003cp data-pid=\"X-WK_pZ7\"\u003e可以看到，现在的全栈不在是以往的全栈， 要求前端，后端，还有一些主流的技术！\u003c/p\u003e\u003cp data-pid=\"urPKd5x7\"\u003e一个全栈开发工程师是需要掌握.PC、H5、Nodejs、小程序、移动端技术栈、Vue/React源码、MVVM库原理、Koa2源码，定制MVC开发框架、前端监控、自动化测试、发布、运维等知识和技能的。同时也需要掌握前端开发技术、移动APP开发、微信小程序开发、网站开发、版桌面应用开发。\u003c/p\u003e\u003cp data-pid=\"bL8F1pYa\"\u003e对于全栈工程师来讲，往往是没得选择的。比如你做App，你要全栈，你基本上就很少选择余地，Java、Objective-C都是必须的。所以，很多时候是产品和形势选择你成为全栈，是做着做着成了全栈。而不是为了全栈而全栈，假如是为了全栈而全栈，那你是可以选的哦。比如选择MEAN（MongoDB+Express+AngularJS+Node.js），比如J2SE + SSH + Android + Objective-C + Cocoa……\u003c/p\u003e\u003ch2\u003e学习前端库和框架\u003c/h2\u003e\u003cp data-pid=\"J-gT03gV\"\u003e前端技术，基础语法是最重要的！\u003c/p\u003e\u003col\u003e\u003cli data-pid=\"3X6kTA7l\"\u003e前端概念总览、vscode开发工具使用、markdown文档工具使用、浏览器平台环境、标签基础、DTD与META\u003c/li\u003e\u003cli data-pid=\"jQDwFm1V\"\u003e语义化、选择器、权重与优先级、匹配规则、浮动与清除、BFC、类名组合规则、SEO前端技巧、定位、叠加技巧、伪类、伪元素、盒子模型、代码规范、性能优化、渲染原理、CSS Sprites 、 iconfont字体图标、布局思路、布局定式\u003c/li\u003e\u003c/ol\u003e\u003cp data-pid=\"DJ15n-Q_\"\u003e3、css3动画、 css3选择器、 css3过渡、flex布局、背景渐变、css3实用动效、3D模块、css3变量、em/rem/vw\u003c/p\u003e\u003cp data-pid=\"FntskTtm\"\u003e前端其他技术栈：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pica.zhimg.com/v2-05feefb1e55f0b065bfb91837dc87da8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"750\" data-rawheight=\"360\" data-original-token=\"v2-bf9479392a31c9c02de4d95d3df32185\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pica.zhimg.com/v2-05feefb1e55f0b065bfb91837dc87da8_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;750\u0026#39; height=\u0026#39;360\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"750\" data-rawheight=\"360\" data-original-token=\"v2-bf9479392a31c9c02de4d95d3df32185\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"750\" data-original=\"https://pica.zhimg.com/v2-05feefb1e55f0b065bfb91837dc87da8_r.jpg\" data-actualsrc=\"https://pica.zhimg.com/v2-05feefb1e55f0b065bfb91837dc87da8_b.jpg\"/\u003e\u003c/figure\u003e\u003cul\u003e\u003cli data-pid=\"HJOy3Pae\"\u003eReact是许多开发人员的热门选择，因为它易于学习和使用。\u003c/li\u003e\u003cli data-pid=\"mXJa06-Z\"\u003eAngular是大型项目的好选择，因为它的功能更丰富。\u003c/li\u003e\u003cli data-pid=\"tCWx6DU-\"\u003eVue是小型项目的好选择，因为它轻量级且易于使用。\u003c/li\u003e\u003c/ul\u003e\u003cp data-pid=\"YWTIr_fT\"\u003e除了框架本身，还可以使用几个实用的库来协助开发工作，这些库包括：\u003c/p\u003e\u003cul\u003e\u003cli data-pid=\"VkUyb7mb\"\u003eLodash\u003c/li\u003e\u003cli data-pid=\"3zuXl8Ct\"\u003eMoment.js\u003c/li\u003e\u003cli data-pid=\"HcaEBAUS\"\u003eAnd Axios\u003c/li\u003e\u003c/ul\u003e\u003ch2\u003e学习后端 Web 开发\u003c/h2\u003e\u003cp data-pid=\"zXv517TV\"\u003e有多种后端语言可用于开发网站或应用程序。PHP、Java、Python和Ruby，GO是最流行的后端语言，每种语言都有其长处和短处，因此为项目选择正确的语言是至关重要的。\u003c/p\u003e\u003ch2\u003ePHP vs Java  vs Python  vs go\u003c/h2\u003e\u003cp data-pid=\"C6lonFwt\"\u003ePHP适合需要简单功能的小型项目，Java适合需要更复杂功能的大型项目。\u003c/p\u003e\u003cp data-pid=\"8_1RK3SX\"\u003ePython适合需要大量数据处理的项目，而Ruby适合需要大量用户交互的项目。\u003c/p\u003e\u003cp data-pid=\"g8Rgf8yq\"\u003ePHP框架，你需要掌握的有：Laravel，Symfony，CodeIgniter\u003c/p\u003e\u003cp data-pid=\"qGpJxgnm\"\u003eJava框架，你需要掌握的有：Spring，Springboot，Springcloud，Dubbo\u003c/p\u003e\u003cp data-pid=\"CJMPK0CD\"\u003eGo框架，你需要掌握的有：Gin、Echo、Beego\u003c/p\u003e\u003cp data-pid=\"c_zauh08\"\u003ePython框架，你需要掌握的有：Django、Flask、Pyramid、Bottle、CherryPy、Tornado、Scrapy\u003c/p\u003e\u003cp data-pid=\"DcdxauEc\"\u003e框架学习后，我们能够更加快速，高效的开发Web应用，但是还不够，我们需要学习更多的知识来适应更多的需求，比如：Linux，Maven，Redis，Dubbo，Solr，Hadoop，Spark等等。\u003c/p\u003e\u003cp data-pid=\"5x1BZKQG\"\u003e完成这些主要知识的学习后，如果是零基础的学习者，我们应该继续扩展新的知识：设计模式，JVM虚拟机运行原理，数据结构与算法，网络协议，计算机组成基础等等。\u003c/p\u003e\u003ch2\u003e学习数据库管理系统和 SQL\u003c/h2\u003e\u003cp data-pid=\"pAPWGfk4\"\u003e至少需要掌握一到两个数据库，并知道怎样与数据库进行交互。目前流行的数据库主要有MySQL、MongoDB、Redis、Oracle、SQLServer等。MongoDB作为文档型数据库，在互联网产品中正被越来越多地使用，对于规模稍大的项目，仍推荐使用MySQL或商用的Oracle作为后端数据库。而Redis这样的内存数据库则可以用于缓存，以提升系统的性能。\u003c/p\u003e\u003cp data-pid=\"Ohh52Dbl\"\u003e开发人员经常使用一些流行的堆栈。\u003c/p\u003e\u003cp data-pid=\"8gwJ09tU\"\u003e最流行的堆栈是MEAN堆栈，用于开发web应用程序，由MongoDB、Express.js、AngularJS和Node.js组成。\u003c/p\u003e\u003cp data-pid=\"Ck016yCP\"\u003e另一个流行的堆栈是LAMP堆栈，它也用于开发服务器端应用程序，由Linux、Apache、MySQL和PHP组成。\u003c/p\u003e\u003cp data-pid=\"j11dwu7Q\"\u003e还有就是java+Spring boot+Mysql+Apache+Linux\u003c/p\u003e\u003cp data-pid=\"KS1l4bOW\"\u003e除此之外，上面的招聘来看，目前对于AI平台大的搭建是一个加分项，特别是对于最近流行的技术，比如目前最大的技术流就是AIGC了\u003c/p\u003e\u003cp data-pid=\"czJUEwIV\"\u003e果你还不了解ACGI，嫌自己摸索太麻烦，正好给你推荐「知乎知学堂」和「AGI课堂」联动，推出的【程序员的AI大模型进阶之旅】公开课。一共2天的课程，正是为适应当下AI发展推出的，由几位行业大佬主讲，教你利用AI拆解业务，利用用最优方案独立开发 AI 产品的能力，全方位的帮大家提升认知和AI技术能力。\u003c/p\u003e\u003cp data-pid=\"-PtUSG7c\"\u003e另外还有免费的AI大模型资料包，供你学习。点击下面的卡片就可以免费领，大佬能在线答疑，趁着现在还免费，建议IT人都去看看：\u003c/p\u003e\u003ca data-draft-node=\"block\" data-draft-type=\"edu-card\" data-edu-card-id=\"1679846973413515264\"\u003e\u003c/a\u003e\u003cp data-pid=\"9uiXUP-k\"\u003e通过这个公开课们可以快速地学会AI 全栈，提升工作效率。即使在公司外，AI 全栈接项目，独立开发变现小工具，也能赚取副业收入，成为第一批AI全栈布道师！\u003c/p\u003e\u003ch2\u003e除此之外，作为全栈工程师，还需要具备：\u003c/h2\u003e\u003ch3\u003e具备设计能力\u003c/h3\u003e\u003cp data-pid=\"o-aSxa-4\"\u003e一个好的产品，除了需要前期的产品创意和功能创造以外，还需要具备吸引力，和良好的设计能力\u003c/p\u003e\u003ch3\u003e良好的沟通能力\u003c/h3\u003e\u003cp data-pid=\"5ii1Xlow\"\u003e项目的制作需要团队的合作，销售则需要面对客户，因此作为全程参与的工程师，你还要懂得沟通。全栈工程师需要通过沟通去确定项目的方案、消解团队矛盾、吸引目标客户的赞助。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://picx.zhimg.com/v2-77d765f046f428be5998c03fa5c9fc35_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"512\" data-rawheight=\"425\" data-original-token=\"v2-9ea1095d305797cff18579c1a8e71fb2\" class=\"origin_image zh-lightbox-thumb\" width=\"512\" data-original=\"https://picx.zhimg.com/v2-77d765f046f428be5998c03fa5c9fc35_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;512\u0026#39; height=\u0026#39;425\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"512\" data-rawheight=\"425\" data-original-token=\"v2-9ea1095d305797cff18579c1a8e71fb2\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"512\" data-original=\"https://picx.zhimg.com/v2-77d765f046f428be5998c03fa5c9fc35_r.jpg\" data-actualsrc=\"https://picx.zhimg.com/v2-77d765f046f428be5998c03fa5c9fc35_b.jpg\"/\u003e\u003c/figure\u003e\u003ch3\u003e解决问题的能力\u003c/h3\u003e\u003cp data-pid=\"ZR6QTEdU\"\u003e在软件开发的过程当中，不仅仅会碰到技术问题，还有很多工程或者管理方面的问题，强大的解决问题能力是全栈工程师要具备的重要素质之一，也是全栈工程师的核心能力，这个能力体现在多个方面。\u003c/p\u003e\u003cp data-pid=\"TRVxlukn\"\u003e\u003cb\u003e主动学习新技术，不断进步\u003c/b\u003e\u003c/p\u003e\u003cp data-pid=\"Dn3mhVLB\"\u003e互联网行业，各种技术的更新迭代速度快，全栈工程师一定是需要保持开放的心态，主动去学习新的技术，才不会坐吃山空。\u003c/p\u003e\u003ch2\u003e最后\u003c/h2\u003e\u003cp data-pid=\"s2hNUAp7\"\u003e全栈工程师决不是一夜练成的，需要循序渐进的学习基础，强化核心技能，并持续学习。等到你自由运用技术，开发出优秀产品的时候，你也就成功了！\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 3,
+          "thumbnails": [
+            {
+              "data_url": "",
+              "url": "https://pic1.zhimg.com/80/v2-6f64fb35df44de707a2669b18ea33834_qhd.jpg?source=4e949a73",
+              "type": "image",
+              "width": 955,
+              "height": 429
+            },
+            {
+              "data_url": "",
+              "url": "https://picx.zhimg.com/80/v2-53d0e2e72487b32225e1ed428df72377_qhd.jpg?source=4e949a73",
+              "type": "image",
+              "width": 790,
+              "height": 439
+            },
+            {
+              "data_url": "",
+              "url": "https://picx.zhimg.com/80/v2-bf9479392a31c9c02de4d95d3df32185_qhd.jpg?source=4e949a73",
+              "type": "image",
+              "width": 750,
+              "height": 360
+            }
+          ],
+          "type": "thumbnail_info",
+          "total_count": 4
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": false
+        },
+        "question": {
+          "id": "47221991",
+          "type": "question",
+          "name": "什么叫\u003cem\u003e全栈\u003c/em\u003e工程师，需要具备哪些知识和技能？",
+          "url": "https://api.zhihu.com/questions/47221991",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "0562ae57ba411b146099313075609e94",
+          "url_token": "zhimengrensheng",
+          "name": "终端研发部",
+          "headline": "​探索技术，追求本源，还分享职场，毕设，程序员内推和简历指导",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/0562ae57ba411b146099313075609e94",
+          "type": "people",
+          "avatar_url": "https://picx.zhimg.com/50/v2-e5c5fbaaa1a4d4f09e05a672acc2c169_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 86662,
+          "follower_count": 80233,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "OpACCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIJNjA5NjcyNDczKgozMTg3NzQyNzUxMggxMTEwMzAyMjoINDcyMjE5OTFKBuWFqOagiFAAWAFgAWoG5YWo5qCIcASAAZ3EmvC2i4gDmAEAoAEAqAEAsAEBuAEA0AHAgbanBtgB+QPgAVKAAgG4AgDiAjNlZHVfbm9ybWFsO1NPVVJDRV9TRUFSQ0hfRURVX0NPTU1PTl9BTlNXRVI7ZWR1X3Nsb3T4AgGKAwCSAxMxODAzODk4MjU0ODE3MTEyMDY2mgMAogMJMTAxXzNfMy4wqgMIdHJhaW5pbmeYBAM=",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 49,
+        "visits_count": 0,
+        "description": "",
+        "title": "什么叫全栈工程师，需要具备哪些知识和技能？",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 0
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "从结缘到蜕变大家好！我是一名工作在一线的电气自动化工程师，也是咱们“AI\u003cem\u003e全栈\u003c/em\u003e工程师培养计划”第五期课程的学员。很荣幸能跟大家做这次结课后的分享。接下来，就重点跟大家聊聊我跟咱们这门课程从结缘到结业的真实学习情况以及我的一些收获和体会。 最近，我参加了一门关于大语言模型的技术课程",
+        "title": "使用LangChain框架，轻松实现你的第一个\u003cem\u003e全栈\u003c/em\u003e项目"
+      },
+      "object": {
+        "id": "707142055",
+        "title": "使用LangChain框架，轻松实现你的第一个\u003cem\u003e全栈\u003c/em\u003e项目",
+        "type": "article",
+        "url": "https://api.zhihu.com/articles/707142055",
+        "excerpt": "从结缘到蜕变大家好！我是一名工作在一线的电气自动化工程师，也是咱们“AI\u003cem\u003e全栈\u003c/em\u003e工程师培养计划”第五期课程的学员。很荣幸能跟大家做这次结课后的分享。接下来，就重点跟大家聊聊我跟咱们这门课程从结缘到结业的真实学习情况以及我的一些收获和体会。 最近，我参加了一门关于大语言模型的技术课程",
+        "voteup_count": 13,
+        "comment_count": 1,
+        "zfav_count": 0,
+        "created_time": 1720166377,
+        "updated_time": 1720166377,
+        "content": "\u003ch2\u003e\u003cb\u003e从结缘到蜕变\u003c/b\u003e\u003c/h2\u003e\u003cp data-pid=\"fEjyYfrA\"\u003e大家好！我是一名工作在一线的电气自动化工程师，也是咱们“AI全栈工程师培养计划”第五期课程的学员。很荣幸能跟大家做这次结课后的分享。接下来，就重点跟大家聊聊我跟咱们这门课程从结缘到结业的真实学习情况以及我的一些收获和体会。\u003cbr/\u003e最近，我参加了一门关于大语言模型的技术课程，这个学习过程不仅让我获得了宝贵的知识，还带来了深刻的启发和蜕变。\u003c/p\u003e\u003cp data-pid=\"wBYsaotX\"\u003e\u003cb\u003eAI技术进阶之路\u003c/b\u003e\u003c/p\u003e\u003cp data-pid=\"9s66frPZ\"\u003e在学习这门课程之前，我对大语言模型的了解主要局限于理论层面。最早在大学期间，学习的是自动化专业，在自动控制原理的课上，老师讲PID控制理论时就提到过，PID参数就属于一种原始的人工智能系统，让计算机控制系统有鲁棒性，从那会起AI这个词就在我心中种下了一颗好奇的种子。2020年我阴差阳错的进入了一个图像识别项目，那时候起接触了CNN网络，还自学了TensorFlow框架，用Google的Inception模型加上自己的训练集，完成了一个产品瑕疵检测的项目，至此我对AI的能力更加叹为观止。2022年初接到一个关于电网负荷预测的项目，通过自学pytorch框架、去GitHub上搬运各路大神们魔改的基于Transformer的时间预测模型，将负荷预测的准确度提升了30%。后来自己又将这套预测系统用于投资领域，也取得的一定的收货。24年一次偶然的机会，我在手机上看到了孙老师讲的关于大模型的课程广告，之前在听得到时就对孙老师的大名有所耳闻，而且当时正好也想系统的学习关于大模型实际应用的一些技能，所以毫不犹豫的就买了课程。\u003cbr/\u003e通过深入学习，我逐渐发现大模型领域远比我想象的要复杂和广阔。课程涵盖了大量的理论知识，包括模型的架构、训练方法、实践应用等。在课程的学习过程中，我逐渐建立了对大语言模型的整体认识，并对其背后的原理有了更深入的理解。\u003c/p\u003e\u003ch2\u003e\u003cb\u003e理论与实践的双重飞跃\u003c/b\u003e\u003c/h2\u003e\u003cp data-pid=\"jc6eB2X1\"\u003e然而，理论知识的学习只是第一步。为了更好地掌握这些知识，我积极地参与到了实践项目中。利用langchain框架搭建了一个简单的邮件处理的agent名字叫SmartMail项目，没想到还被王老师选中参与了项目交流活动。在这个过程中，我遇到了许多挑战和困难。例如，处理大模型的幻觉问题就让我开始有点无所适从。传统编程项目中遵循的debug流程对大模型项目来说并没有太多参考意义。大模型项目的运行效果更多的是一种随机发生的概率事件，即有时候能出来很惊艳的效果，有时候却很一般。经过实践发现，这更多的还是和prompt写的效果有强相关性。大模型项目更多考验的其实是程序员的语文功底，传统的代码和算法能力相比之下重要性没有那么强了，因为这些能力其实大模型做的比一般人要好，这个感觉是我做了大模型项目后最大的感受，也是和传统程序项目最大的不同点。\u003c/p\u003e\u003cp data-pid=\"W_1gNR3N\"\u003e\u003cb\u003e大模型项目的挑战与启示\u003c/b\u003e\u003c/p\u003e\u003cp data-pid=\"BIVEzEJu\"\u003e前面提到过，项目中最大的难点就在于大模型的随机性问题，带着这个问题，我又加入到了知乎的大模型课程的学习中，这门课主要内容中就介绍了很多方式去解决这种问题，比如设置随机参数，通过prompt进行约束，甚至还能用另外一个大模型“提醒”正在工作的模型不要产生幻觉。更多详细内容可以参考课程链接：\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003ca data-draft-node=\"block\" data-draft-type=\"edu-card\" data-edu-card-id=\"1792503096955502593\"\u003e\u003c/a\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003ch2\u003e\u003cb\u003e目标导向与反馈循环\u003c/b\u003e\u003c/h2\u003e\u003cp data-pid=\"c4cYo0XM\"\u003e\u003cbr/\u003e总之，通过学习大语言模型的技术课程，我最大的感受是大模型项目与其说是编程教会计算机去做什么，不如和他一起成长，在不断的运行与结果反馈中修改prompt，给大模型规划一个你希望他成长的方向，这更像与自己的孩子相处的感觉，通过自己的言传身教去影响他，激发他的潜力，让他变的更优秀。\u003cbr/\u003e最后，学习大模型一定要有目标的去实践，对于技术的学习，实践+反馈是最有效的学习方式，哪怕是把老师上课的代码抄一遍自己运行一下，都会很有收货的感觉。咱们经常听到的“实践出真知”、“纸上得来终觉浅”说的都是这个道理。同时，给自己设定一个目标，通过不断的尝试发现自己的错误和短板，这样就会有不断去学习去完善自身知识体系的动力，同时哪怕目标最终没有完成，这个过程也是最好的学习方式。毕竟，瞄准月球射击，就算你失手，也会落在群星之中。\u003cbr/\u003e\u003c/p\u003e\u003ch2\u003e学习过程中自己写的一些demo案例截图：\u003c/h2\u003e\u003cp data-pid=\"XViZpy8l\"\u003e\u003cbr/\u003e一个基于Crew AI框架的多智能体协作小说写作项目：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-1ee24edf0988d46f970b993a35402ea2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"313\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-1ee24edf0988d46f970b993a35402ea2_r.jpg\" data-original-token=\"v2-35c5c202cdd101d148911da16e826930\"/\u003e\u003c/figure\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-1ee24edf0988d46f970b993a35402ea2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"313\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-1ee24edf0988d46f970b993a35402ea2_r.jpg\" data-original-token=\"v2-35c5c202cdd101d148911da16e826930\"/\u003e\u003c/figure\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-1ee24edf0988d46f970b993a35402ea2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"313\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-1ee24edf0988d46f970b993a35402ea2_r.jpg\" data-original-token=\"v2-35c5c202cdd101d148911da16e826930\"/\u003e\u003c/figure\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp data-pid=\"LykVi2u0\"\u003e一个基于GLM-4模型的股票热点搜罗agent：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-d60466db781745f22e745ef3d1bea13e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"249\" data-rawheight=\"538\" class=\"content_image\" width=\"249\" data-original-token=\"v2-dfb80d9b941c202e5267abd3ffc24c2e\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"Ce52Tju8\"\u003e基于LangChain框架的邮件自动处理系统，SmartMail项目：\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic1.zhimg.com/v2-9e99edb1b8765c1dab4bc517fc36779c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"553\" data-rawheight=\"302\" class=\"origin_image zh-lightbox-thumb\" width=\"553\" data-original=\"https://pic1.zhimg.com/v2-9e99edb1b8765c1dab4bc517fc36779c_r.jpg\" data-original-token=\"v2-406737fc273c5a0bf9814fced87349c7\"/\u003e\u003c/figure\u003e\u003cp\u003e\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 1,
+          "thumbnails": [
+            {
+              "data_url": "",
+              "url": "https://pic1.zhimg.com/80/v2-35c5c202cdd101d148911da16e826930_qhd.jpg?source=4e949a73",
+              "type": "image",
+              "width": 554,
+              "height": 313
+            }
+          ],
+          "type": "thumbnail_info",
+          "total_count": 5
+        },
+        "author": {
+          "id": "7eee8a9a240e7a3622dc0e06ff574aed",
+          "url_token": "deng-ta-10-31",
+          "name": "灯塔",
+          "headline": "",
+          "gender": -1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/7eee8a9a240e7a3622dc0e06ff574aed",
+          "type": "people",
+          "avatar_url": "https://picx.zhimg.com/50/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 13,
+          "follower_count": 5,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "voting": 0,
+        "relationship": {
+          "is_voted": false,
+          "is_author": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0
+        },
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "OvIBCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYByIJMjQ1MjczODM3Kgk3MDcxNDIwNTVKBuWFqOagiFAAWAFgAWoG5YWo5qCIcASAAZ3EmvC2i4gDmAEAoAEBqAEAsAEBuAEA0AHpz560BtgBDeABAYACAbgCAOICK2VkdV9ub3JtYWw7U09VUkNFX1NFQVJDSF9FRFVfQ09NTU9OX0FSVElDTEX4AgGKAwCSAxMxODAzODk4MjU0ODE3MTEyMDY2mgMAogMJMTAxXzNfMy4wqgMIdHJhaW5pbmeYBAE=",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 1
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "\u003cem\u003e全栈\u003c/em\u003e？ 我才毕业的时候还觉得全栈什么的特牛逼 现在我觉得，\u003cem\u003e全栈\u003c/em\u003e除了能做到技术专家以上的人牛逼之外（这类人基本上都是主业后端，前端是个人爱好，但是前端技术也很强，很少主业是前端得",
+        "title": "对于程序员是\u003cem\u003e全栈\u003c/em\u003e好？还是专注一个领域好？"
+      },
+      "object": {
+        "original_id": "559676535",
+        "id": "2912760611",
+        "type": "answer",
+        "excerpt": "\u003cem\u003e全栈\u003c/em\u003e？ 我才毕业的时候还觉得全栈什么的特牛逼 现在我觉得，\u003cem\u003e全栈\u003c/em\u003e除了能做到技术专家以上的人牛逼之外（这类人基本上都是主业后端，前端是个人爱好，但是前端技术也很强，很少主业是前端得",
+        "url": "https://api.zhihu.com/answers/2912760611",
+        "voteup_count": 26,
+        "comment_count": 29,
+        "favorites_count": 16,
+        "created_time": 1677463981,
+        "updated_time": 1677464167,
+        "content": "\u003cp data-pid=\"l_XaADhd\"\u003e全栈？\u003c/p\u003e\u003cp data-pid=\"g7CqrQRN\"\u003e我才毕业的时候还觉得全栈什么的特牛逼\u003c/p\u003e\u003cp data-pid=\"ymnbShVC\"\u003e现在我觉得，全栈除了能做到技术专家以上的人牛逼之外（这类人基本上都是主业后端，前端是个人爱好，但是前端技术也很强，很少主业是前端得，这种是真大佬），其他的包括使用全栈开发工程师的公司都很拉跨。\u003c/p\u003e\u003cp data-pid=\"WrWv74ta\"\u003e之前公司的项目，很多顶着中级高级title的全栈，因为自己的接口自己前端做对接，接口规范一塌糊涂，参数校验前端一块后端一块，除了他没人能看懂。并且公司其他项目两个全栈一天干的活，我这边项目组我加上一个前端半天就干完了，工作效率及其低下。大部分全栈都是后端为主，前端为辅，前端写得一塌糊涂，页面就是依托答辩，前端工程师都完全不愿意接手。\u003c/p\u003e\u003cp data-pid=\"1N4KGHTU\"\u003e再说，你再全栈，能全到什么地步去？无非就说前端后端，除此之外还要移动端呢，测试呢，运维呢？在宽点，业务、产品、售前、售后？全栈这个是没有边际的。\u003c/p\u003e\u003cp data-pid=\"dC9oljLS\"\u003e说好听点叫全栈工程师，实际上就是个全干工程师。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": false
+        },
+        "question": {
+          "id": "40148516",
+          "type": "question",
+          "name": "对于程序员是\u003cem\u003e全栈\u003c/em\u003e好？还是专注一个领域好？",
+          "url": "https://api.zhihu.com/questions/40148516",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "6c1f1d2e685fd697636a6416bcd1c6fd",
+          "url_token": "hei-se-jin-shu-40",
+          "name": "黑色金属",
+          "headline": "",
+          "gender": -1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/6c1f1d2e685fd697636a6416bcd1c6fd",
+          "type": "people",
+          "avatar_url": "https://picx.zhimg.com/50/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 16790,
+          "follower_count": 476,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "Ot0BCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIJNTU5Njc2NTM1KgoyOTEyNzYwNjExMgc4MjY2NzY4Ogg0MDE0ODUxNkoG5YWo5qCIUABYAWABagblhajmoIhwBIABncSa8LaLiAOYAQCgAQKoAQCwAQG4AQDQAa2j8J8G2AEa4AEdgAIBuAIAigMAkgMTMTgwMzg5ODI1NDgxNzExMjA2NpoDAKIDCTEwMV8zXzMuMKoDAMIDDXJ1Y2VuZV9hbnN3ZXKYBAA=",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 95,
+        "visits_count": 199905,
+        "description": "全栈真的好么？为什么很多人都很自豪而神气的宣称自己是全栈，优越感爆棚，我觉得能成为全栈的人必定是极具编程天赋的人，对于普通人怎么可能做到处处精通？如果不精通，那他能为社会创造什么价值呢？那些伪全栈的价值在哪里？一个人想专注一个领域常常也被那些全栈所嘲笑，大家怎么看待全栈潮流？\u003cbr\u003e\u003cbr\u003e/**==========换行=========**/\u003cbr\u003e随意提了个问题，所以并没有在意问题逻辑，没想到这么多人关注，也谢谢诸位前辈的解答，小弟参加工作两年，对身边的一些现象难以理解，阐述下我个人对编程的理解，首先我不同意所谓的全栈，太可怕了，人类社会是一个群体协作社会，分工明确才有我们现有的璀璨文明和社会财富，我们应该把自己大部分时间用于专注于一个领域，而留小部分时间关注下其他技术，这有助于我们多种思维思考问题，也有助于和不同领域的同事协作，如果我们分散精力，那势必会成为四不像，将不能最大限度发挥我们的才能\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e补充，今天又被权限嘲讽了\u003cbr\u003e\u003cimg data-rawwidth=\"640\" data-rawheight=\"1136\" src=\"e0b3f1f4ef8ccd4717d5ff2b1b97dc02.jpeg\"\u003e",
+        "title": "对于程序员是全栈好？还是专注一个领域好？",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 2
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "还有程序员没有应用过大模型技术吗？是工具也可以！如果你还未使用过大模型技术，那么我劝你尽早行动，它会成为你开发的一大神器。如果你对大模型感兴趣，同时想使用大模型技术来开发产品，我接下来这个实战案例相信可以帮助到你。 如今，大模型的崛起使得编程变得前所未有的容易",
+        "title": "使用Prompt，轻松实现你的第一个\u003cem\u003e全栈\u003c/em\u003e项目"
+      },
+      "object": {
+        "id": "704745938",
+        "title": "使用Prompt，轻松实现你的第一个\u003cem\u003e全栈\u003c/em\u003e项目",
+        "type": "article",
+        "url": "https://api.zhihu.com/articles/704745938",
+        "excerpt": "还有程序员没有应用过大模型技术吗？是工具也可以！如果你还未使用过大模型技术，那么我劝你尽早行动，它会成为你开发的一大神器。如果你对大模型感兴趣，同时想使用大模型技术来开发产品，我接下来这个实战案例相信可以帮助到你。 如今，大模型的崛起使得编程变得前所未有的容易",
+        "voteup_count": 10,
+        "comment_count": 0,
+        "zfav_count": 0,
+        "created_time": 1718971383,
+        "updated_time": 1718971383,
+        "content": "\u003cp data-pid=\"a1izDzwl\"\u003e还有程序员没有应用过大模型技术吗？是工具也可以！如果你还未使用过大模型技术，那么我劝你尽早行动，它会成为你开发的一大神器。如果你对大模型感兴趣，同时想使用大模型技术来开发产品，我接下来这个实战案例相信可以帮助到你。\u003c/p\u003e\u003cp data-pid=\"xI-bdhC9\"\u003e如今，大模型的崛起使得编程变得前所未有的容易，哪怕你是一个编程新手，也能轻松创造自己的应用程序。\u003c/p\u003e\u003cp data-pid=\"lolk-z34\"\u003e本文将带你走进一个崭新的学习路径，介绍一种基于提示（Prompt）的方法，借助强大的大模型，轻松完成前后端程序的构建和调试。我们将逐步使用Prompt，创建一个简单而完整的前后端应用，包括Python后端和HTML前端。\u003c/p\u003e\u003ch3\u003e\u003cb\u003e目标需求\u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"OCvXs_7K\"\u003e我们的目标是构建一个基本的Web应用程序，它接收用户输入并将其传递到后端Python程序。后端将用户输入传递给OpenAI API，获取输出，再将结果呈现在前端页面上。这个应用程序将通过前后端协作，实现用户与AI模型的互动，类似于网页版ChatGPT中的最简单功能。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-9aa16709ff84555f59e3dc6a52adcf22_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic3.zhimg.com/v2-9aa16709ff84555f59e3dc6a52adcf22_r.jpg\" data-original-token=\"v2-9aa16709ff84555f59e3dc6a52adcf22\"/\u003e\u003c/figure\u003e\u003ch3\u003e先看成果\u003c/h3\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic2.zhimg.com/v2-d15fc227135244687cc58bbf48e64d65_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"280\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic2.zhimg.com/v2-d15fc227135244687cc58bbf48e64d65_r.jpg\" data-original-token=\"v2-d15fc227135244687cc58bbf48e64d65\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"lqSmJmvT\"\u003e可以看到一个简单的网页，用户在输入框输入问题，网页端将问题传递到后端，后端调用OpenAI API获取回答，然后网页再将OpenAI的回答展示在下面。麻雀虽丑，五脏俱全。\u003c/p\u003e\u003ch2\u003e完整实现过程\u003c/h2\u003e\u003ch3\u003e\u003cb\u003e1.\u003c/b\u003e \u003cb\u003e使用Prompt生成代码\u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"76SgopfE\"\u003e一个好的Prompt应该有以下几个要素：\u003c/p\u003e\u003cul\u003e\u003cli data-pid=\"Jy53LATw\"\u003e角色：给 AI 定义一个最匹配任务的角色，比如：「你是一位软件工程师」\u003c/li\u003e\u003cli data-pid=\"NlKZAYjA\"\u003e指示：对任务进行描述\u003c/li\u003e\u003cli data-pid=\"hjFPTLDO\"\u003e上下文：给出与任务相关的其它背景信息（尤其在多轮交互中）\u003c/li\u003e\u003cli data-pid=\"pVobpNsf\"\u003e例子：必要时给出举例，学术中称为 one-shot learning, few-shot learning 或 in-context learning；实践证明其对输出正确性有帮助\u003c/li\u003e\u003cli data-pid=\"5WKPnaZU\"\u003e输入：任务的输入信息；在提示词中明确的标识出输入\u003c/li\u003e\u003cli data-pid=\"ABM88r0t\"\u003e输出：输出的格式描述，以便后继模块自动解析模型的输出结果，比如（JSON、XML）\u003c/li\u003e\u003c/ul\u003e\u003cp data-pid=\"s3mU5HTr\"\u003ePrompt应用我之前文章也给大家分享过，如果你感觉从文字上了解有点枯燥，那我就给你推荐一个大模型的公开课，目前这个课程是免费的，你可以去听听，让你会对大模型整个体系一目了然，我把对应的卡片放在下面，点击卡片就能获得他们的公开课免费试听。\u003c/p\u003e\u003ca data-draft-node=\"block\" data-draft-type=\"edu-card\" data-edu-card-id=\"1787575784547971072\"\u003e\u003c/a\u003e\u003cp data-pid=\"_5li3wpf\"\u003e反正不要钱，不看白不看，快去点击领取，我们接着往下说。\u003c/p\u003e\u003cp data-pid=\"Q3zvtvS6\"\u003e我先和大模型交代好我的需求，以及对它的角色要设定，同时把具体的功能也要告诉他，具体的请看我的图片。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic1.zhimg.com/v2-fb206749a84c66899afb43ddf3ed9224_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"218\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-fb206749a84c66899afb43ddf3ed9224_r.jpg\" data-original-token=\"v2-fb206749a84c66899afb43ddf3ed9224\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"5Lm_fYjo\"\u003e可以看到我在Prompt中添加了角色定义，详细的任务，以及一些确定的信息（例如使用Python语言，网页名叫“My First OpenAI Page”）。ChatGPT回复如下：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic4.zhimg.com/v2-ca3147ddf70a71a574cd0afcce8ba70f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"809\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"809\" data-original=\"https://pic4.zhimg.com/v2-ca3147ddf70a71a574cd0afcce8ba70f_r.jpg\" data-original-token=\"v2-ca3147ddf70a71a574cd0afcce8ba70f\"/\u003e\u003c/figure\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic2.zhimg.com/v2-c60908ebf31c0fdda0d191d48e9e907d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"851\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"851\" data-original=\"https://pic2.zhimg.com/v2-c60908ebf31c0fdda0d191d48e9e907d_r.jpg\" data-original-token=\"v2-c60908ebf31c0fdda0d191d48e9e907d\"/\u003e\u003c/figure\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic4.zhimg.com/v2-b8ba9ca08737f5ce29774f35137f89a7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"94\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic4.zhimg.com/v2-b8ba9ca08737f5ce29774f35137f89a7_r.jpg\" data-original-token=\"v2-b8ba9ca08737f5ce29774f35137f89a7\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"YMojZN1_\"\u003e从ChatGPT生成的结果看，它已经给你生成了完整的前后端代码框架，并告诉你应该如何运行和使用它们。\u003c/p\u003e\u003cp data-pid=\"Y5Ahzyq3\"\u003e兴致勃勃地开始运行上面的代码吧！很不幸的，在运行代码的时候，出现了错误。在运行上述代码时，遇到了错误。\u003c/p\u003e\u003cp data-pid=\"K4Uu1Wgg\"\u003e别慌！这并不罕见，因为生成的代码通常需要自行检查和修改，大模型不是万能的，要警惕大模型幻觉（一本正经胡说八道）的出现。学会使用Prompt进行代码调试和错误修复是非常关键的技能。\u003c/p\u003e\u003ch3\u003e\u003cb\u003e2.调试代码\u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"EzgTt7ow\"\u003e下面以一个错误的解决为例，带大家看下如何使用Prompt来解决程序中遇到的错误或问题：\u003c/p\u003e\u003cdiv class=\"highlight\"\u003e\u003cpre\u003e\u003ccode class=\"language-text\"\u003e错误信息：\nAccess to XMLHttpRequest at \u0026#39;file:///D:/process-prompt\u0026#39; from origin \u0026#39;null\u0026#39; has been blocked by CORS \npolicy: Cross origin requests are only supported for protocol schemes: http, data, isolated-app, \nchrome-extension, chrome, https, chrome-untrusted.\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e\u003cp data-pid=\"dMVlbL2W\"\u003e直接把错误提示给到大模型，当然还是Prompt交互：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic4.zhimg.com/v2-40f1e0db811933f02357f42fb24ae703_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"112\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic4.zhimg.com/v2-40f1e0db811933f02357f42fb24ae703_r.jpg\" data-original-token=\"v2-40f1e0db811933f02357f42fb24ae703\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"PWKnORxH\"\u003eChatGPT回复如下：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-e25c7e383482533afe3b47f80a620f92_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"430\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic3.zhimg.com/v2-e25c7e383482533afe3b47f80a620f92_r.jpg\" data-original-token=\"v2-e25c7e383482533afe3b47f80a620f92\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"ZUU0haK-\"\u003e按照上述修改，你会发现程序运行仍然错误： \u003cb\u003eNo matching distribution found for apt_pkg\u003c/b\u003e\u003c/p\u003e\u003cp data-pid=\"5AQGC7lR\"\u003e可以再次看到，大模型也并不是万能的，它也会犯错。那怎么引导大模型改正错误，输出正确答案呢？那就要停下来思考如何优化Prompt了。\u003c/p\u003e\u003cp data-pid=\"rTTVYlEx\"\u003e怎样写好Prompt才能引导大模型给出正确的答案呢？我也是有听上边给你推荐那个公开课得到一个比较中肯的答案：\u003cb\u003e高质量\u003c/b\u003e \u003cb\u003ePrompt 核心要点是具体、丰富、少歧义，要把AI当人看\u003c/b\u003e。你也可以去看看，也许有意向不到的收获，这个课程涵盖了大模型的全栈内容，从最基础的Prompt工程到RAG到Fine-Tuning,甚至到怎样利用大模型落地实际业务，以及大模型的最新发展趋势，都有着详细和深入的探索，你也听听对你有没有帮助。\u003c/p\u003e\u003ca data-draft-node=\"block\" data-draft-type=\"edu-card\" data-edu-card-id=\"1787575910813298688\"\u003e\u003c/a\u003e\u003cp data-pid=\"1EQIXsir\"\u003e言归正传，回看上面的Prompt，我们给的输入还是太少，AI只知道这是个错误，但不知道是在什么情况，什么背景下发生的错误，所以容易犯错。下面我们根据课上学的知识，“\u003cb\u003e高质量\u003c/b\u003e \u003cb\u003ePrompt 核心要点是具体、丰富、少歧义，要把AI当人看\u003c/b\u003e”，尽可能地丰富提问时Prompt的信息，比如环境、版本等信息，优化后的Prompt中加入了程序运行的平台以及使用的Python版本：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic1.zhimg.com/v2-7325bb7604cbaa8f1e1bb35e71130194_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"219\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-7325bb7604cbaa8f1e1bb35e71130194_r.jpg\" data-original-token=\"v2-7325bb7604cbaa8f1e1bb35e71130194\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"3fgnyODj\"\u003eChatGPT再次回复如下：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-e25c7e383482533afe3b47f80a620f92_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"430\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic3.zhimg.com/v2-e25c7e383482533afe3b47f80a620f92_r.jpg\" data-original-token=\"v2-e25c7e383482533afe3b47f80a620f92\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"g87GPy9e\"\u003e该问题得已成功解决。再次运行，第一个全栈项目就运行起来了！\u003c/p\u003e\u003cp data-pid=\"HLCWt7Dg\"\u003e当然，过程中肯定会不止遇到这一个错误，但是错误的解决过程都一样，即：不断调整你的Prompt，注意好的Prompt的几个要素，大模型会给你想要的答案。\u003c/p\u003e\u003ch2\u003e总结\u003c/h2\u003e\u003cp data-pid=\"hJHRwqKp\"\u003e结合以上整个实现过程，与我们过去开发项目的确有很大的变革，当然事情都有双面性，通过Prompt编程，我们可以获得以下关键优势：\u003c/p\u003e\u003cp data-pid=\"UgM_AtYf\"\u003e\u003cb\u003e1.\u003c/b\u003e \u003cb\u003e学习代码框架和实施方式\u003c/b\u003e：Prompt让我们轻松了解不熟悉的代码框架，就像本文中的Flask框架一样，即使我们之前对其一无所知。\u003c/p\u003e\u003cp data-pid=\"ZJAb8Nb0\"\u003e\u003cb\u003e2.\u003c/b\u003e \u003cb\u003e作为项目的第一步\u003c/b\u003e：实际工作中，从零开始构建项目的机会较少，通常是在现有代码和框架的上扩展。Prompt可以帮助我们快速启动项目，成为项目构建的强大起始点，提高我们的框架搭建能力。\u003c/p\u003e\u003cp data-pid=\"1EeoQk0U\"\u003e\u003cb\u003e3.\u003c/b\u003e \u003cb\u003e提高编程效率\u003c/b\u003e。不用自己重复造轮子了，一些成熟的常用算法，如冒泡排序，如SQL语句生成，再也不用自己一个单词一个单词的手动写，一行Prompt全搞定。\u003c/p\u003e\u003cp data-pid=\"w2a1d-a3\"\u003e4. \u003cb\u003e提高解决问题的效率\u003c/b\u003e。从上文解决问题的过程可以看到，通过Prompt来寻求解决问题的方法比传统检索要强大和高效的多，它给你组织和筛选了答案，不再需要你去海量的信息中筛选对你有用的信息。\u003c/p\u003e\u003cp data-pid=\"rTOFAPoR\"\u003e5. \u003cb\u003e提高代码的可维护性和可扩展性\u003c/b\u003e。Prompt可以帮助我们编写更易于维护和扩展的代码，因为我们可以使用模板和代码片段来编写结构化的代码，而不是手动的编写整个代码。这可以使代码更易于阅读和理解，同时也可以方便地进行修改和扩展。\u003c/p\u003e\u003cp data-pid=\"fyJ6Dv12\"\u003e最后，目前利用Prompt和大模型进行编程还不算成熟，对于使用者来说还是需要有点基础，例如环境，例如基本调试和运行，基本IDE的使用等。当然，随着大模型技术的发展，现在已经涌现出了一些应用集成了Code interpreter，可以支持在线运行程序，校验程序的正确性，但也在发展阶段。大模型全栈课程中也提到：\u003cb\u003eAI 的能力不会超过使用者的判断力\u003c/b\u003e。虽然AI已经取得了很大的进步，但是它的能力仍然受到人类的知识和经验、数据和算法的限制。因此，在使用AI时，我们应该保持谨慎和理性，将其视为一种工具，而不是一种万能的方法。\u003c/p\u003e\u003cp data-pid=\"l54PlORB\"\u003e本文作者：@\u003cspan class=\"nolink\"\u003e赵宏伟\u003c/span\u003e\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 1,
+          "thumbnails": [
+            {
+              "data_url": "",
+              "url": "https://pic1.zhimg.com/80/v2-aa097dacd306e4769e062b1c73f04586_qhd.jpg?source=4e949a73",
+              "type": "image",
+              "width": 1268,
+              "height": 706
+            }
+          ],
+          "type": "thumbnail_info",
+          "total_count": 12
+        },
+        "author": {
+          "id": "354a091a04e0c20269578c0064f8d2a4",
+          "url_token": "shu-ju-fen-xi-gong-cheng-shi-81",
+          "name": "AI技能研究所",
+          "headline": "程序员的进阶之旅",
+          "gender": -1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "organization",
+          "url": "https://api.zhihu.com/people/354a091a04e0c20269578c0064f8d2a4",
+          "type": "people",
+          "avatar_url": "https://picx.zhimg.com/50/v2-1f4740e0798e0fc5eac8c4cc7dae9fc2_l.jpg?source=4e949a73",
+          "badge": [
+            {
+              "type": "identity",
+              "description": "已认证账号",
+              "topics": []
+            },
+            {
+              "type": "identity",
+              "description": "已认证的机构",
+              "topics": []
+            }
+          ],
+          "authority_info": null,
+          "voteup_count": 26877,
+          "follower_count": 18026,
+          "badge_v2": {
+            "title": "已认证账号",
+            "merged_badges": [
+              {
+                "type": "identity",
+                "detail_type": "identity",
+                "title": "认证",
+                "description": "已认证账号",
+                "url": "https://www.zhihu.com/term/institution-settle",
+                "sources": [],
+                "icon": "",
+                "night_icon": ""
+              }
+            ],
+            "detail_badges": [
+              {
+                "type": "identity",
+                "detail_type": "identity_org",
+                "title": "已认证账号",
+                "description": "已认证账号",
+                "url": "https://www.zhihu.com/term/institution-settle",
+                "sources": [],
+                "icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+                "night_icon": "https://pic1.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c"
+              }
+            ],
+            "icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+            "night_icon": "https://pica.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c"
+          },
+          "old_badges": [
+            {
+              "type": "identity",
+              "description": "已认证账号"
+            }
+          ],
+          "badge_v2_string": "{\"title\":\"已认证账号\",\"merged_badges\":[{\"type\":\"identity\",\"detail_type\":\"identity\",\"title\":\"认证\",\"description\":\"已认证账号\",\"url\":\"https://www.zhihu.com/term/institution-settle\",\"sources\":[],\"icon\":\"\",\"night_icon\":\"\",\"badge_status\":\"passed\"}],\"detail_badges\":[{\"type\":\"identity\",\"detail_type\":\"identity_org\",\"title\":\"已认证账号\",\"description\":\"已认证账号\",\"url\":\"https://www.zhihu.com/term/institution-settle\",\"sources\":[],\"icon\":\"https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c\",\"night_icon\":\"https://pic1.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c\",\"badge_status\":\"passed\"}],\"icon\":\"https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c\",\"night_icon\":\"https://pica.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c\"}",
+          "topic_bayes_map": null
+        },
+        "voting": 0,
+        "relationship": {
+          "is_voted": false,
+          "is_author": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0
+        },
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "OvIBCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYByIJMjQ0NzQxMTkwKgk3MDQ3NDU5MzhKBuWFqOagiFAAWAFgAWoG5YWo5qCIcASAAZ3EmvC2i4gDmAEAoAEDqAEAsAEBuAEA0AH319WzBtgBCuABAIACAbgCAOICK2VkdV9ub3JtYWw7U09VUkNFX1NFQVJDSF9FRFVfQ09NTU9OX0FSVElDTEX4AgGKAwCSAxMxODAzODk4MjU0ODE3MTEyMDY2mgMAogMJMTAxXzNfMy4wqgMIdHJhaW5pbmeYBAE=",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 3
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "flutter+react+golang+mysql＝frgm 1，flutter，性能高，多平台ui一致，难逆向，一次出4端，ios，Android，pc，tv",
+        "title": "目前最具性价比的\u003cem\u003e全栈\u003c/em\u003e路线是啥？"
+      },
+      "object": {
+        "original_id": "621760657",
+        "id": "3254242678",
+        "type": "answer",
+        "excerpt": "flutter+react+golang+mysql＝frgm 1，flutter，性能高，多平台ui一致，难逆向，一次出4端，ios，Android，pc，tv",
+        "url": "https://api.zhihu.com/answers/3254242678",
+        "voteup_count": 798,
+        "comment_count": 148,
+        "favorites_count": 1855,
+        "created_time": 1697591415,
+        "updated_time": 1715575885,
+        "content": "\u003cp data-pid=\"hXDjlYtU\"\u003eflutter+react+golang+mysql＝frgm\u003c/p\u003e\u003cp data-pid=\"seGtBkNx\"\u003e1，flutter，性能高，多平台ui一致，难逆向，一次出4端，ios，Android，pc，tv，实在插件不够用再学原生补给，不会dart的人，dart语法跟js ts 95%相似5天就转过去，框架用法与react类组件98%相似\u003c/p\u003e\u003cp data-pid=\"Io0zZG-y\"\u003e2，react负责后台管理系统或者其他对外页面需求，配合\u003c/p\u003e\u003cp data-pid=\"ZoE4ojTx\"\u003ematerial ui+mbox+swc+wasm+ts，\u003c/p\u003e\u003cp data-pid=\"sIdX8rm7\"\u003e别用redux，redux费力不讨好，你还得为了ts单独自己写interface，\u003c/p\u003e\u003cp data-pid=\"exKqjeXj\"\u003e别用umi，umi绑定了太多依赖库，拖家带口一大堆，虽然可以一个个卸载掉，但是图啥呢，他所谓的亮点支持mfsu现实中并没有多么好的效果。还有不少第三方库没给umi写插件，你自己写还得找不同版本的教程，umi版本太多了文档那个乱啊\u003c/p\u003e\u003cp data-pid=\"8B0eZc9D\"\u003e别用next，既然未来直接上cdn，那还用next意义就不大了，除非大量ssr，不要为了一两个页面需要seo就上next，为了一口醋包顿饺子。而且上了next并发量一下子就下来了，哪怕你缓存。\u003c/p\u003e\u003cp data-pid=\"zMsbEfD5\"\u003e就单纯用基础react最干净，最简洁，可以模拟umi自己写一个可配置式路由。然后配置好swc起飞。\u003c/p\u003e\u003cp data-pid=\"GdeU37_s\"\u003e如果想解决seo问题，可以使用预渲染技术把某个react路由单独生成静态文件上cdn或者没钱cdn直接nginx静态转发也行。\u003c/p\u003e\u003cp data-pid=\"pObbSLXa\"\u003e总之就是尽量服务器端去nodejs化。服务器越来越贵，性能低的比如node，占内存的比如java，等这些语言通通不要留，只留go/rust/c/cpp这类。（原谅我穷人思想）\u003c/p\u003e\u003cp data-pid=\"Q5QWeKGu\"\u003e别问我为什么不是vue，因为我觉得vue太啰嗦了\u003c/p\u003e\u003cp data-pid=\"ryEqPve2\"\u003e3，go+gin一步到位高性能简洁快速，一言不合就可以开协程。golang结构体可以直接导出swagger进而导出前端的interface，完美组合。不要走某公司先python再用golang重构的老路，go开发速度不比python慢\u003c/p\u003e\u003cp data-pid=\"sKXeLGSt\"\u003e4，mysql简单好用，别用mongo，还是关系型数据库更加规范，约束更多，mongo内置约束太少了，像我这样的新手很难驾驭好\u003c/p\u003e\u003cp data-pid=\"42rADTvu\"\u003e我说的是你如果创业的话，可以这么组合，如果打工，那么公司用啥你就用啥，毕竟给你工作开工资，比失业强。\u003c/p\u003e\u003cp data-pid=\"dGwm0U2W\"\u003e以上是失业半年至今总结的，我做梦幻想着如果有一天我有钱创业了，我就这么干。\u003c/p\u003e\u003cp data-pid=\"xnbQq-bi\"\u003e是的，没钱创什么业。\u003c/p\u003e\u003cp data-pid=\"XhWl_o5Q\"\u003e最后，赏个star吧\u003c/p\u003e\u003cp data-pid=\"WC5mrg6O\"\u003e\u003ca href=\"https://link.zhihu.com/?target=https%3A//github.com/butoften/array\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"visible\"\u003egithub.com/butoften/arr\u003c/span\u003e\u003cspan class=\"invisible\"\u003eay\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp data-pid=\"ng_tC59M\"\u003e\u003cbr/\u003e完美失业中，做个工具站\u003cbr/\u003e\u003ca href=\"https://link.zhihu.com/?target=https%3A//tool.butof.com/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"visible\"\u003etool.butof.com/\u003c/span\u003e\u003cspan class=\"invisible\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e\u003cp data-pid=\"D9qJCfis\" class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp data-pid=\"INdXsd97\"\u003e前端朋友们估计会用的比较多的就是转webp了，记得在电脑上使用哦，不限体积，不限数量，多worker复用\u003c/p\u003e\u003cp data-pid=\"-kMmQL3G\"\u003e\u003ca href=\"https://link.zhihu.com/?target=https%3A//tool.butof.com/office/webp\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003e\u003cspan class=\"invisible\"\u003ehttps://\u003c/span\u003e\u003cspan class=\"visible\"\u003etool.butof.com/office/w\u003c/span\u003e\u003cspan class=\"invisible\"\u003eebp\u003c/span\u003e\u003cspan class=\"ellipsis\"\u003e\u003c/span\u003e\u003c/a\u003e\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": true
+        },
+        "question": {
+          "id": "594662421",
+          "type": "question",
+          "name": "目前最具性价比的\u003cem\u003e全栈\u003c/em\u003e路线是啥？",
+          "url": "https://api.zhihu.com/questions/594662421",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "5bc5fe6882accc237c917e60127b51ae",
+          "url_token": "wu-hao-93-7",
+          "name": "天日",
+          "headline": "人生如果可以开协程该多好",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/5bc5fe6882accc237c917e60127b51ae",
+          "type": "people",
+          "avatar_url": "https://picx.zhimg.com/50/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 6723,
+          "follower_count": 571,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "OuEBCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIJNjIxNzYwNjU3KgozMjU0MjQyNjc4Mgg5NDQyODUwMjoJNTk0NjYyNDIxSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA5gBAKABBKgBALABAbgBANAB9+C8qQbYAZ4G4AGUAYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjCqAwDCAw1tdWx0aV9hbnN3ZXJzmAQA",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 195,
+        "visits_count": 1633906,
+        "description": "\u003cp\u003e请教一个问题。我目前是大二学生，正准备创业，由于人力和资金受限，必须两三个人完成一个app的开发。那么首先这件事可能嘛？二，这三个人需要分别学什么互相搭配，效率最高？\u003c/p\u003e",
+        "title": "目前最具性价比的全栈路线是啥？",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 4
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "那么这个螺丝钉就没有太大的价值了。尤其是想在职位和薪资上有所突破，仅靠前端这个小坑，再专精也是很难突破的。若是处在这种环境之下，你就需要拓宽自己的知识面，朝着\u003cem\u003e全栈\u003c/em\u003e发展，为什么呢?从个人职业发展来讲，随着年纪增大，你最终需要从一个底层码",
+        "title": "前端程序员应该往\u003cem\u003e全栈\u003c/em\u003e方向发展吗?还是坚守前端?"
+      },
+      "object": {
+        "original_id": "627160178",
+        "id": "3283953548",
+        "type": "answer",
+        "excerpt": "那么这个螺丝钉就没有太大的价值了。尤其是想在职位和薪资上有所突破，仅靠前端这个小坑，再专精也是很难突破的。若是处在这种环境之下，你就需要拓宽自己的知识面，朝着\u003cem\u003e全栈\u003c/em\u003e发展，为什么呢?从个人职业发展来讲，随着年纪增大，你最终需要从一个底层码",
+        "url": "https://api.zhihu.com/answers/3283953548",
+        "voteup_count": 225,
+        "comment_count": 16,
+        "favorites_count": 0,
+        "created_time": 1699599836,
+        "updated_time": 1699600261,
+        "content": "\u003cp data-pid=\"QTUblAPf\"\u003e前端干了有四年多了，在我有限的认知内（认知就这么点，不要杠我，杠就是你对）和能力范围内所触及到的岗位种类中，前端这个岗位在我看来是最难坚守的。\u003c/p\u003e\u003cp data-pid=\"8FfDNrvN\"\u003e大多数初级中级的前端开发喜欢把自己限定在前端领域，不愿意去了解后端运维等其他方面的技术。\u003c/p\u003e\u003cp data-pid=\"47RWrkE7\"\u003e我能理解这种安于现状的状态，但是，技术领域大环境是不断变化的。你要是大厂的螺丝刀那也说得过去，毕竟大厂的模式都是一个萝卜一个坑，小而专嘛。把自己的坑研就透了，也是领域人才了。\u003c/p\u003e\u003cp data-pid=\"hi9JfJ7O\"\u003e但是大部分前端都只能在中小公司，那么这个螺丝钉就没有太大的价值了。尤其是想在职位和薪资上有所突破，仅靠前端这个小坑，再专精也是很难突破的。\u003c/p\u003e\u003cp data-pid=\"aQKtq04_\"\u003e\u003cb\u003e若是处在这种环境之下，你就需要拓宽自己的知识面，朝着全栈发展，为什么呢?\u003c/b\u003e\u003c/p\u003e\u003cp data-pid=\"NZYIe-v4\"\u003e从个人职业发展来讲，随着年纪增大，你最终需要从一个底层码农进化成一个提供解决方案的技术管理，你需要针对客户的需求提供一个解决方案，而如果你只在前端摸索就很难站在一个全局的角度去思考，如果你的知识面不够广，你是无法提供一个好的解决方案的，你见得少就听不懂别人在讲什么。\u003c/p\u003e\u003cp data-pid=\"Xo5hhxyv\"\u003e其次从个人角度来讲，可以做做自己的个人项目，什么都懂才能把一个网站完整地做出来上线，别人有外包项目找到你，你也可以有这个能力接下来，所以单单懂前端是不够的。\u003c/p\u003e\u003cp data-pid=\"5uJfkd9K\"\u003e\u003cb\u003e但是!!!想要把路走宽之前，一定要有一个拿得出手的技术。\u003c/b\u003e\u003c/p\u003e\u003cp data-pid=\"-QqPmNkH\"\u003e像我们前端的人，你就必须要把前端做得足够好，从前端的高处向后端延伸发展，这样你才能称自己是全栈，否则你就是啥都懂，但又等于啥都不懂。\u003c/p\u003e\u003cp data-pid=\"lyoKAwwC\"\u003e在当下，任何一家企业都需要前端开发，而且必不可少!\u003c/p\u003e\u003cp data-pid=\"y85GaYpU\"\u003e当然，对于前端开发的要求也越来越高了。从2016年开始Node在国内火了，也意味着Node为JS提供了在服务端运行的环境，使得JS也能开发服务端的程序，前后端使用同一种语言，统一模型的梦想得以实现。这也是为什么这么多年优秀的前端开发薪资更高的原因。\u003c/p\u003e\u003cp data-pid=\"hUs1VrKk\"\u003e今天，前端开发\u0026#34;上天入地，无所不能\u0026#34;（吹嘘一下）: PC端开发、移动web开发、APP开发、小程序开发、服务端开发等。一个资深的优秀的前端开发工程师也叫做全栈开发工程师，这个时代也被叫做大前端时代。\u003c/p\u003e\u003cp data-pid=\"rk7tqMlQ\"\u003e\u003cb\u003e所以，我们就看到了今天的局面，前后端开发都在互相卷，横向卷，纵向卷，垂直卷，深度卷。卷来卷去都是冲着全栈工程师的发展方向。\u003c/b\u003e\u003c/p\u003e\u003cp data-pid=\"pq_jjkKP\"\u003e全栈工程师通常会经历技术蜕变，以适应不断发展的技术和市场需求。这种蜕变是不断学习和提高自己的过程。以下是一个典型的前端向后端学习发展全栈工程师可能会经历的技术蜕变阶段:\u003c/p\u003e\u003ch3\u003e\u003cb\u003e1.初学者( Beginner): \u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"qlvlj-5Y\"\u003e- 学习基本的编程语言和编程概念，如HTML、CSS、JavaScript\u003c/p\u003e\u003cp data-pid=\"tw3CoQq-\"\u003e-掌握基本的前端开发技能，能够创建简单的静态网页。\u003c/p\u003e\u003ch3\u003e\u003cb\u003e2.前端开发者(Front-end Developer):\u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"oqadul-6\"\u003e-提高前端技能，包括JavaScript框架(如React，Anqular，Vue.is)的使用。\u003c/p\u003e\u003cp data-pid=\"l0O-PlE_\"\u003e-开始构建交互性强、响应式的前端应用程序学习基本的HTTP和网络通信知识。\u003c/p\u003e\u003ch3\u003e\u003cb\u003e3.后端开发者( Back-end Developer ): \u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"_upUfY-X\"\u003e- 学习服务器端编程语言和框架，如Node.js、Python ( Django、Flask ) 、Ruby ( Ruby onRails)等。\u003c/p\u003e\u003cp data-pid=\"JkgcQ2tL\"\u003e-理解数据库设计和管理。\u003c/p\u003e\u003cp data-pid=\"sO7ioFNe\"\u003e-开始构建服务器端应用程序，实现数据存储和处理。\u003c/p\u003e\u003cp data-pid=\"GuRa_y8L\"\u003e已经在做前端的工程师们对于后端这些技术框架应该也不会陌生，但如果真让大家说出点什么，恐怕又说不明白。\u003c/p\u003e\u003cp data-pid=\"iJVdcgr3\"\u003e我们都知道常见的后端开发主要还是用Java，但如果从前端向后延伸发展，走node道路会更通顺些，毕竟不是彻底的转行，想要做到前后兼顾，甚至说随时回头，好好学node更有利于前端开发者的快速学习和发展。当然，也要结合自己公司或者目标公司的开发技术栈来决定。\u003c/p\u003e\u003cp data-pid=\"Rii5sd0T\"\u003e最近啃文档有点不耐烦，开始琢磨辅助性学习开发，琢磨了一下发现，让我搞成了趣味性学习。\u003c/p\u003e\u003cp data-pid=\"PDn-hlZF\"\u003e不想摸鱼太明显，我直接用了VScode自带的chatMoss，哪怕是领导过来了，还是有大半个代码页面部分展现给他，至于chatMoss内容框里有什么东西，领导是不会深究的。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pica.zhimg.com/v2-7cc58458d78026c449110487ce07e37c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"545\" data-rawheight=\"1023\" data-original-token=\"v2-6f2649ffa75aed9ccf515f6f52f149f0\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-e0a6935efaebc2aa5471522c60c0240f_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"545\" data-original=\"https://pica.zhimg.com/v2-7cc58458d78026c449110487ce07e37c_r.jpg\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;545\u0026#39; height=\u0026#39;1023\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"545\" data-rawheight=\"1023\" data-original-token=\"v2-6f2649ffa75aed9ccf515f6f52f149f0\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-e0a6935efaebc2aa5471522c60c0240f_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"545\" data-original=\"https://pica.zhimg.com/v2-7cc58458d78026c449110487ce07e37c_r.jpg\" data-actualsrc=\"https://pica.zhimg.com/v2-7cc58458d78026c449110487ce07e37c_b.jpg\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"o7WRmd33\"\u003e一开始接触AI这东西得时候，我把它当成百度来用，重点都放在了关键词上，试了几次发现这东西一点也不智能啊，我还以为是我没花钱的原因（当然也有点）。\u003c/p\u003e\u003cp data-pid=\"uaT1_oc7\"\u003e可转眼看到别人用起来得心应手，要瓜得瓜，要豆得豆，我心里直痒痒，不甘心。那就再偷偷摸鱼，了解一下AI模型的知识。\u003c/p\u003e\u003cp data-pid=\"dUikR5XT\"\u003e目前的AI模型依赖的是数据训练，用于多用图像识别，自然语言分析、新闻编写等。\u003c/p\u003e\u003cp data-pid=\"RfWuVEKS\"\u003e\u003cb\u003e使用AI就需要先学习一下Prompt和LangChain。\u003c/b\u003e因为训练AI模型是需要技巧的，GPT生成的回答质量是参差不齐的，原因就在于你问他的方式技巧。专业的人会用各种提示语，精准的做出自己想要的效果，而我。。。都是没用的废话。\u003c/p\u003e\u003cp data-pid=\"1YV4wP3Y\"\u003e其实想让生成式AI得到更精准、更理想的结果并非易事。这需要深度理解AI的运作逻辑，掌握和聊天机器人“对话”的能力。因此，普通人使用AI时总是掌握不了提问的精髓。\u003c/p\u003e\u003cp data-pid=\"oIplXZ2X\"\u003e我在搜寻针对提问技巧的教程时，看了看「知乎知学堂旗下AGI课堂」推出的【程序员的AI大模型进阶之旅】公开课，连着看了两天，第一天课程里老师给讲了讲关于这个大模型的发展和训练方法，训练方法是尤为重要的一环。第二天的课程就讲了一些训练自己模型的手段和工具的干货，收获很多，有种醍醐灌顶的感觉，推荐大家也看一下。\u003cb\u003e建议添加老师的企业微信，还可以免费领一份AI 大模型资料包。\u003c/b\u003e\u003c/p\u003e\u003ca data-draft-node=\"block\" data-draft-type=\"edu-card\" data-edu-card-id=\"1706325911761215488\"\u003e\u003c/a\u003e\u003cp data-pid=\"uRDS06as\"\u003e虽然大家都讲大白话，但是AI毕竟不是情感人类，想要与AI高效沟通就要学会提示词的技巧，也要学会引导它。\u003c/p\u003e\u003cp data-pid=\"TprjuH3k\"\u003e如果能顺利的渗透到后端的开发工作中，那么就可以尝试独立构建一个完整的应用程序，那就能进入到全栈开发者的发展阶段。\u003c/p\u003e\u003ch3\u003e\u003cb\u003e4.全栈开发者 (Full-stack Developer ) :\u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"aLF6nq5f\"\u003e- 结合前端和后端技能，能够独立构建完整的Web应用程序。\u003c/p\u003e\u003cp data-pid=\"QvuqfBFI\"\u003e-学习操作系统和服务器管理，以便部署应用程序。掌握版本控制系统，如Git。\u003c/p\u003e\u003cp data-pid=\"v4KziloM\"\u003e-开始使用云计算平台(如AWS、Azure、GoogleCloud)来托管应用程序。\u003c/p\u003e\u003ch3\u003e\u003cb\u003e5.DevOps工程师:\u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"d12-0-h7\"\u003e-学习自动化部署和持续集成/持续交付(CI/CD)流程，以提高开发团队的效率。掌握容器化技术，如Docker和容器编排工具，如Kuberneteso。\u003c/p\u003e\u003cp data-pid=\"2Ddv5MQ9\"\u003e-理解基础设施即代码 (lnfrastructure as CodelaC)的概念，以自动化基础设施管理。\u003c/p\u003e\u003ch3\u003e\u003cb\u003e6.云架构师:\u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"rSymnW8C\"\u003e- 深入研究云计算架构，了解不同云服务的特性和最佳实践。\u003c/p\u003e\u003cp data-pid=\"QI7wYNPh\"\u003e-设计高可用性、可伸缩性的分布式系统。\u003c/p\u003e\u003cp data-pid=\"HgYFfbkm\"\u003e- 掌握安全性和监控策略，确保应用程序的稳定性和安全性。\u003c/p\u003e\u003ch3\u003e\u003cb\u003e7.技术领导者:\u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"adm0jxaT\"\u003e-培养团队协作和沟通技巧，领导开发团队。\u003c/p\u003e\u003cp data-pid=\"XMtpW5NY\"\u003e-制定技术路线图参与项目规划和架构设计，持续学习新的技术和趋势，以保持竞争力。\u003c/p\u003e\u003cp data-pid=\"xTWoQfPV\"\u003e很多刚入门的人不知从何下手，感觉需学习的知识太多了，到底哪些技术好 ?\u003c/p\u003e\u003cp data-pid=\"s3dO5eKL\"\u003e想我当初毕业时选择就业方向，为了开端顺利选择了前端，不过当时前端正热，我的选择也让我安稳的度过了最难的就业阶段，若是如今的毕业生选择方向，我建议去走后端，前端处境很尴尬。\u003c/p\u003e\u003cp data-pid=\"I5ShWjDi\"\u003e其实不管从哪个方向入手最重要的都是一定要有正确的路线图，开始阶段都要针对自己的方向进行深耕，深度挖掘，直至渗透到底层。只有在一方站稳脚跟，才能保证后续的进步稳扎稳打，不然就是半瓶水晃荡，两头都懵。\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 1,
+          "thumbnails": [
+            {
+              "data_url": "",
+              "url": "https://picx.zhimg.com/80/v2-6f2649ffa75aed9ccf515f6f52f149f0_qhd.jpg?source=4e949a73",
+              "type": "image",
+              "width": 545,
+              "height": 1023
+            }
+          ],
+          "type": "thumbnail_info",
+          "total_count": 1
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": false
+        },
+        "question": {
+          "id": "620684386",
+          "type": "question",
+          "name": "前端程序员应该往\u003cem\u003e全栈\u003c/em\u003e方向发展吗?还是坚守前端?",
+          "url": "https://api.zhihu.com/questions/620684386",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "6bcf2a25490666c214eda5f4946f507f",
+          "url_token": "elena-45-80",
+          "name": "寒蝉",
+          "headline": "不想退休的铲屎官不是好程序员\n大咪银票，小咪金蛋儿",
+          "gender": 0,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/6bcf2a25490666c214eda5f4946f507f",
+          "type": "people",
+          "avatar_url": "https://pic1.zhimg.com/50/v2-2e52cfaa8d0a6e24498dfdec12b3f1da_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 5347,
+          "follower_count": 934,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "OokCCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIJNjI3MTYwMTc4KgozMjgzOTUzNTQ4MgkxMDAyMDk1NTQ6CTYyMDY4NDM4NkoG5YWo5qCIUABYAWABagblhajmoIhwBIABncSa8LaLiAOYAQCgAQWoAQCwAQG4AQDQAdyrt6oG2AHhAeABEIACAbgCAOICKmVkdV9ub3JtYWw7U09VUkNFX1NFQVJDSF9FRFVfQ09NTU9OX0FOU1dFUvgCAYoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjCqAwh0cmFpbmluZ5gEAQ==",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 40,
+        "visits_count": 0,
+        "description": "",
+        "title": "前端程序员应该往全栈方向发展吗?还是坚守前端?",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 5
+    },
+    {
+      "type": "relevant_query",
+      "id": "cc427962cc3f541fd3c7b8b09b26203b",
+      "index": 6,
+      "query_list": [
+        {
+          "query": "全栈是什么意思",
+          "id": "-375402131966127551",
+          "attached_info_bytes": "OnsSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABBqgBALABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+        },
+        {
+          "query": "photonics 全栈光子实验室",
+          "id": "7653216065416959463",
+          "attached_info_bytes": "OnsSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABBqgBAbABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+        },
+        {
+          "query": "ai大模型全栈工程师",
+          "id": "-2590904761042591995",
+          "attached_info_bytes": "OnsSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABBqgBArABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+        },
+        {
+          "query": "全栈路线",
+          "id": "8091000389639301378",
+          "attached_info_bytes": "OnsSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABBqgBA7ABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+        },
+        {
+          "query": "ai全栈工程师",
+          "id": "-7030549397347202308",
+          "attached_info_bytes": "OnsSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABBqgBBLABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+        },
+        {
+          "query": "全栈开发是什么意思",
+          "id": "6596484790380215256",
+          "attached_info_bytes": "OnsSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABBqgBBbABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+        }
+      ],
+      "attached_info_bytes": "OngSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABBrABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "学\u003cem\u003e全栈\u003c/em\u003e， 然后再从前端和后端中选一个自己喜欢的方向。 等你工作就发现。 但凡好一点儿的工作，招一个前端或者后端，都希望你首先是个\u003cem\u003e全栈\u003c/em\u003e，然后专门发展一个方向。 因为不懂后端的前端和不懂前端的后端互相之间沟通起来是很费劲的",
+        "title": "前端，后端，\u003cem\u003e全栈\u003c/em\u003e哪个好找工作？"
+      },
+      "object": {
+        "original_id": "597491698",
+        "id": "3120737022",
+        "type": "answer",
+        "excerpt": "学\u003cem\u003e全栈\u003c/em\u003e， 然后再从前端和后端中选一个自己喜欢的方向。 等你工作就发现。 但凡好一点儿的工作，招一个前端或者后端，都希望你首先是个\u003cem\u003e全栈\u003c/em\u003e，然后专门发展一个方向。 因为不懂后端的前端和不懂前端的后端互相之间沟通起来是很费劲的",
+        "url": "https://api.zhihu.com/answers/3120737022",
+        "voteup_count": 12,
+        "comment_count": 3,
+        "favorites_count": 9,
+        "created_time": 1689469606,
+        "updated_time": 1689469606,
+        "content": "\u003cp data-pid=\"j_i0Ww0j\"\u003e学全栈，\u003c/p\u003e\u003cp data-pid=\"cs4i-wcX\"\u003e然后再从前端和后端中选一个自己喜欢的方向。\u003c/p\u003e\u003cp data-pid=\"z936xucH\"\u003e等你工作就发现。\u003c/p\u003e\u003cp data-pid=\"8R8nYNjk\"\u003e但凡好一点儿的工作，招一个前端或者后端，都希望你首先是个全栈，然后专门发展一个方向。\u003c/p\u003e\u003cp data-pid=\"yVuWUj8N\"\u003e因为不懂后端的前端和不懂前端的后端互相之间沟通起来是很费劲的。\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": false
+        },
+        "question": {
+          "id": "452319377",
+          "type": "question",
+          "name": "前端，后端，\u003cem\u003e全栈\u003c/em\u003e哪个好找工作？",
+          "url": "https://api.zhihu.com/questions/452319377",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "84ad026c24311900e9a896e4dcd06ccf",
+          "url_token": "qqb0208",
+          "name": "咸鱼之王",
+          "headline": "我号充钱了。\n人教人百言无用，事教人一次入心。",
+          "gender": 0,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/84ad026c24311900e9a896e4dcd06ccf",
+          "type": "people",
+          "avatar_url": "https://pica.zhimg.com/50/v2-d0e329b9c1e7785584f236eaa3cfaaee_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 69019,
+          "follower_count": 14392,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "Ot8BCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIJNTk3NDkxNjk4KgozMTIwNzM3MDIyMgg2Mjc5NDkwNzoJNDUyMzE5Mzc3SgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA5gBAKABB6gBALABAbgBANABpoXNpQbYAQzgAQOAAgG4AgCKAwCSAxMxODAzODk4MjU0ODE3MTEyMDY2mgMAogMJMTAxXzNfMy4wqgMAwgMNcnVjZW5lX2Fuc3dlcpgEAA==",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 123,
+        "visits_count": 623460,
+        "description": "\u003cp\u003e现在大四学的东西乱七八糟的不知道能不能找到工作…\u003c/p\u003e\u003cp\u003e学历非双一流普通一本\u003c/p\u003e\u003cp\u003e前端技术栈h5 cs js（只会ES6后面的还没学）stylus vue2.0(现在3.0都出了唉，学校有开舍react-native的课程，忙着刷leetcod就没咋上) \u003c/p\u003e\u003cp\u003e后端技术栈 java springboot springcloud springcloudAlibaba（没经历过SSM SSH的阶段，没错jsp都没写过）mysql redis  rickermq\u003c/p\u003e\u003cp\u003e运维技术栈 linux docker k8s nginx jenkins(都会用不精通)\u003c/p\u003e\u003cp\u003e小程序 pc h5 安卓都做过\u003c/p\u003e\u003cp\u003e分布式集群啥的只能说完成过部署和简单测试，\u003c/p\u003e\u003cp\u003e做过最复杂业务只有秒杀…\u003c/p\u003e\u003cp\u003e算法会的不多 数据结构也不太牛\u003c/p\u003e\u003cp\u003e平时接接外包啥的有点积蓄不过估计去北上广深也抗不住多久\u003c/p\u003e\u003cp\u003e因为学的太多了，没有真正精通的，我应该拿什么技术栈应聘什么岗位最合适呢？求指教，最近真的很慌…\u003c/p\u003e\u003cp\u003e\u003c/p\u003e",
+        "title": "前端，后端，全栈哪个好找工作？",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 7
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "还有程序员没有应用过大模型技术吗？是工具也可以！如果你还未使用过大模型技术，那么我劝你尽早行动，它会成为你开发的一大神器。如果你对大模型感兴趣，同时想使用大模型技术来开发产品，我接下来这个实战案例相信可以帮助到你。 如今，大模型的崛起使得编程变得前所未有的容易",
+        "title": "使用Prompt，轻松实现你的第一个\u003cem\u003e全栈\u003c/em\u003e项目"
+      },
+      "object": {
+        "id": "676249295",
+        "title": "使用Prompt，轻松实现你的第一个\u003cem\u003e全栈\u003c/em\u003e项目",
+        "type": "article",
+        "url": "https://api.zhihu.com/articles/676249295",
+        "excerpt": "还有程序员没有应用过大模型技术吗？是工具也可以！如果你还未使用过大模型技术，那么我劝你尽早行动，它会成为你开发的一大神器。如果你对大模型感兴趣，同时想使用大模型技术来开发产品，我接下来这个实战案例相信可以帮助到你。 如今，大模型的崛起使得编程变得前所未有的容易",
+        "voteup_count": 221,
+        "comment_count": 9,
+        "zfav_count": 0,
+        "created_time": 1704448468,
+        "updated_time": 1704448468,
+        "content": "\u003cp data-pid=\"a1izDzwl\"\u003e还有程序员没有应用过大模型技术吗？是工具也可以！如果你还未使用过大模型技术，那么我劝你尽早行动，它会成为你开发的一大神器。如果你对大模型感兴趣，同时想使用大模型技术来开发产品，我接下来这个实战案例相信可以帮助到你。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp data-pid=\"xII6P9Cp\"\u003e如今，大模型的崛起使得编程变得前所未有的容易，哪怕你是一个编程新手，也能轻松创造自己的应用程序。\u003c/p\u003e\u003cp data-pid=\"c2YAlQUH\"\u003e本文将带你走进一个崭新的学习路径，介绍一种基于提示（Prompt）的方法，借助强大的大模型，轻松完成前后端程序的构建和调试。我们将逐步使用Prompt，创建一个简单而完整的前后端应用，包括Python后端和HTML前端。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003ch3\u003e\u003cb\u003e目标需求\u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"OCvXs_7K\"\u003e我们的目标是构建一个基本的Web应用程序，它接收用户输入并将其传递到后端Python程序。后端将用户输入传递给OpenAI API，获取输出，再将结果呈现在前端页面上。这个应用程序将通过前后端协作，实现用户与AI模型的互动，类似于网页版ChatGPT中的最简单功能。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-9aa16709ff84555f59e3dc6a52adcf22_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic3.zhimg.com/v2-9aa16709ff84555f59e3dc6a52adcf22_r.jpg\" data-original-token=\"v2-9aa16709ff84555f59e3dc6a52adcf22\"/\u003e\u003c/figure\u003e\u003ch3\u003e先看成果\u003c/h3\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic2.zhimg.com/v2-d15fc227135244687cc58bbf48e64d65_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"280\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic2.zhimg.com/v2-d15fc227135244687cc58bbf48e64d65_r.jpg\" data-original-token=\"v2-fb179656be2ea4c4f65fc12f33a01e18\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"lqSmJmvT\"\u003e可以看到一个简单的网页，用户在输入框输入问题，网页端将问题传递到后端，后端调用OpenAI API获取回答，然后网页再将OpenAI的回答展示在下面。麻雀虽丑，五脏俱全。\u003c/p\u003e\u003ch2\u003e完整实现过程\u003c/h2\u003e\u003ch3\u003e\u003cb\u003e1.\u003c/b\u003e \u003cb\u003e使用Prompt生成代码\u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"76SgopfE\"\u003e一个好的Prompt应该有以下几个要素：\u003c/p\u003e\u003cul\u003e\u003cli data-pid=\"Jy53LATw\"\u003e角色：给 AI 定义一个最匹配任务的角色，比如：「你是一位软件工程师」\u003c/li\u003e\u003cli data-pid=\"NlKZAYjA\"\u003e指示：对任务进行描述\u003c/li\u003e\u003cli data-pid=\"hjFPTLDO\"\u003e上下文：给出与任务相关的其它背景信息（尤其在多轮交互中）\u003c/li\u003e\u003cli data-pid=\"pVobpNsf\"\u003e例子：必要时给出举例，学术中称为 one-shot learning, few-shot learning 或 in-context learning；实践证明其对输出正确性有帮助\u003c/li\u003e\u003cli data-pid=\"5WKPnaZU\"\u003e输入：任务的输入信息；在提示词中明确的标识出输入\u003c/li\u003e\u003cli data-pid=\"ABM88r0t\"\u003e输出：输出的格式描述，以便后继模块自动解析模型的输出结果，比如（JSON、XML）\u003c/li\u003e\u003c/ul\u003e\u003cp data-pid=\"s3mU5HTr\"\u003ePrompt应用我之前文章也给大家分享过，如果你感觉从文字上了解有点枯燥，那我就给你推荐一个大模型的公开课，目前这个课程是免费的，你可以去听听，让你会对大模型整个体系一目了然，我把对应的卡片放在下面，点击卡片就能获得他们的公开课免费试听。\u003c/p\u003e\u003ca data-draft-node=\"block\" data-draft-type=\"edu-card\" data-edu-card-id=\"1726636013097586688\"\u003e\u003c/a\u003e\u003cp data-pid=\"_5li3wpf\"\u003e反正不要钱，不看白不看，快去点击领取，我们接着往下说。\u003c/p\u003e\u003cp data-pid=\"Q3zvtvS6\"\u003e我先和大模型交代好我的需求，以及对它的角色要设定，同时把具体的功能也要告诉他，具体的请看我的图片。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic1.zhimg.com/v2-fb206749a84c66899afb43ddf3ed9224_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"218\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-fb206749a84c66899afb43ddf3ed9224_r.jpg\" data-original-token=\"v2-448e784ca33af93c5319d4bb28fbcda3\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"5Lm_fYjo\"\u003e可以看到我在Prompt中添加了角色定义，详细的任务，以及一些确定的信息（例如使用Python语言，网页名叫“My First OpenAI Page”）。ChatGPT回复如下：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic4.zhimg.com/v2-ca3147ddf70a71a574cd0afcce8ba70f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"809\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"809\" data-original=\"https://pic4.zhimg.com/v2-ca3147ddf70a71a574cd0afcce8ba70f_r.jpg\" data-original-token=\"v2-520d885f85b86bc320598630b8f90257\"/\u003e\u003c/figure\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic2.zhimg.com/v2-c60908ebf31c0fdda0d191d48e9e907d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"851\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"851\" data-original=\"https://pic2.zhimg.com/v2-c60908ebf31c0fdda0d191d48e9e907d_r.jpg\" data-original-token=\"v2-8ef09c3200d1091a4f24f2c9f789e08b\"/\u003e\u003c/figure\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic4.zhimg.com/v2-b8ba9ca08737f5ce29774f35137f89a7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"94\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic4.zhimg.com/v2-b8ba9ca08737f5ce29774f35137f89a7_r.jpg\" data-original-token=\"v2-b8ba9ca08737f5ce29774f35137f89a7\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"YMojZN1_\"\u003e从ChatGPT生成的结果看，它已经给你生成了完整的前后端代码框架，并告诉你应该如何运行和使用它们。\u003c/p\u003e\u003cp data-pid=\"Y5Ahzyq3\"\u003e兴致勃勃地开始运行上面的代码吧！很不幸的，在运行代码的时候，出现了错误。在运行上述代码时，遇到了错误。\u003c/p\u003e\u003cp data-pid=\"K4Uu1Wgg\"\u003e别慌！这并不罕见，因为生成的代码通常需要自行检查和修改，大模型不是万能的，要警惕大模型幻觉（一本正经胡说八道）的出现。学会使用Prompt进行代码调试和错误修复是非常关键的技能。\u003c/p\u003e\u003ch3\u003e\u003cb\u003e2.调试代码\u003c/b\u003e\u003c/h3\u003e\u003cp data-pid=\"EzgTt7ow\"\u003e下面以一个错误的解决为例，带大家看下如何使用Prompt来解决程序中遇到的错误或问题：\u003c/p\u003e\u003cdiv class=\"highlight\"\u003e\u003cpre\u003e\u003ccode class=\"language-ebnf\"\u003e\u003cspan class=\"err\"\u003e错误信息：\u003c/span\u003e\n\u003cspan class=\"k\"\u003eAccess to XMLHttpRequest at \u003c/span\u003e\u003cspan class=\"err\"\u003e\u0026#39;\u003c/span\u003e\u003cspan class=\"k\"\u003efile\u003c/span\u003e\u003cspan class=\"err\"\u003e:///\u003c/span\u003e\u003cspan class=\"k\"\u003eD\u003c/span\u003e\u003cspan class=\"err\"\u003e:/\u003c/span\u003e\u003cspan class=\"k\"\u003eprocess-prompt\u003c/span\u003e\u003cspan class=\"err\"\u003e\u0026#39;\u003c/span\u003e \u003cspan class=\"k\"\u003efrom origin \u003c/span\u003e\u003cspan class=\"err\"\u003e\u0026#39;\u003c/span\u003e\u003cspan class=\"k\"\u003enull\u003c/span\u003e\u003cspan class=\"err\"\u003e\u0026#39;\u003c/span\u003e \u003cspan class=\"k\"\u003ehas been blocked by CORS \u003c/span\u003e\n\u003cspan class=\"k\"\u003epolicy\u003c/span\u003e\u003cspan class=\"err\"\u003e:\u003c/span\u003e \u003cspan class=\"k\"\u003eCross origin requests are only supported for protocol schemes\u003c/span\u003e\u003cspan class=\"err\"\u003e:\u003c/span\u003e \u003cspan class=\"k\"\u003ehttp\u003c/span\u003e\u003cspan class=\"err\"\u003e,\u003c/span\u003e \u003cspan class=\"k\"\u003edata\u003c/span\u003e\u003cspan class=\"err\"\u003e,\u003c/span\u003e \u003cspan class=\"k\"\u003eisolated-app\u003c/span\u003e\u003cspan class=\"err\"\u003e,\u003c/span\u003e \n\u003cspan class=\"k\"\u003echrome-extension\u003c/span\u003e\u003cspan class=\"err\"\u003e,\u003c/span\u003e \u003cspan class=\"k\"\u003echrome\u003c/span\u003e\u003cspan class=\"err\"\u003e,\u003c/span\u003e \u003cspan class=\"k\"\u003ehttps\u003c/span\u003e\u003cspan class=\"err\"\u003e,\u003c/span\u003e \u003cspan class=\"k\"\u003echrome-untrusted\u003c/span\u003e\u003cspan class=\"err\"\u003e.\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e\u003cp data-pid=\"dMVlbL2W\"\u003e直接把错误提示给到大模型，当然还是Prompt交互：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic4.zhimg.com/v2-40f1e0db811933f02357f42fb24ae703_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"112\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic4.zhimg.com/v2-40f1e0db811933f02357f42fb24ae703_r.jpg\" data-original-token=\"v2-40f1e0db811933f02357f42fb24ae703\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"PWKnORxH\"\u003eChatGPT回复如下：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-e25c7e383482533afe3b47f80a620f92_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"430\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic3.zhimg.com/v2-e25c7e383482533afe3b47f80a620f92_r.jpg\" data-original-token=\"v2-2f7e8edcd17edd60c669822261778f3f\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"ZUU0haK-\"\u003e按照上述修改，你会发现程序运行仍然错误：\u003cb\u003e No matching distribution found for apt_pkg\u003c/b\u003e\u003c/p\u003e\u003cp data-pid=\"5AQGC7lR\"\u003e可以再次看到，大模型也并不是万能的，它也会犯错。那怎么引导大模型改正错误，输出正确答案呢？那就要停下来思考如何优化Prompt了。\u003c/p\u003e\u003cp data-pid=\"rTTVYlEx\"\u003e怎样写好Prompt才能引导大模型给出正确的答案呢？我也是有听上边给你推荐那个公开课得到一个比较中肯的答案：\u003cb\u003e高质量\u003c/b\u003e \u003cb\u003ePrompt 核心要点是具体、丰富、少歧义，要把AI当人看\u003c/b\u003e。你也可以去看看，也许有意向不到的收获，这个课程涵盖了大模型的全栈内容，从最基础的Prompt工程到RAG到Fine-Tuning,甚至到怎样利用大模型落地实际业务，以及大模型的最新发展趋势，都有着详细和深入的探索，你也听听对你有没有帮助。\u003c/p\u003e\u003ca data-draft-node=\"block\" data-draft-type=\"edu-card\" data-edu-card-id=\"1726655984045395968\"\u003e\u003c/a\u003e\u003cp data-pid=\"1EQIXsir\"\u003e言归正传，回看上面的Prompt，我们给的输入还是太少，AI只知道这是个错误，但不知道是在什么情况，什么背景下发生的错误，所以容易犯错。下面我们根据课上学的知识，“\u003cb\u003e高质量\u003c/b\u003e \u003cb\u003ePrompt 核心要点是具体、丰富、少歧义，要把AI当人看\u003c/b\u003e”，尽可能地丰富提问时Prompt的信息，比如环境、版本等信息，优化后的Prompt中加入了程序运行的平台以及使用的Python版本：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic1.zhimg.com/v2-7325bb7604cbaa8f1e1bb35e71130194_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"219\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-7325bb7604cbaa8f1e1bb35e71130194_r.jpg\" data-original-token=\"v2-49e44cc46aa1e103490c7528a7654791\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"3fgnyODj\"\u003e ChatGPT再次回复如下：\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cimg src=\"https://pic3.zhimg.com/v2-e25c7e383482533afe3b47f80a620f92_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"430\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic3.zhimg.com/v2-e25c7e383482533afe3b47f80a620f92_r.jpg\" data-original-token=\"v2-2f7e8edcd17edd60c669822261778f3f\"/\u003e\u003c/figure\u003e\u003cp data-pid=\"g87GPy9e\"\u003e该问题得已成功解决。再次运行，第一个全栈项目就运行起来了！\u003c/p\u003e\u003cp data-pid=\"HLCWt7Dg\"\u003e当然，过程中肯定会不止遇到这一个错误，但是错误的解决过程都一样，即：不断调整你的Prompt，注意好的Prompt的几个要素，大模型会给你想要的答案。\u003c/p\u003e\u003ch2\u003e总结\u003c/h2\u003e\u003cp data-pid=\"hJHRwqKp\"\u003e结合以上整个实现过程，与我们过去开发项目的确有很大的变革，当然事情都有双面性，通过Prompt编程，我们可以获得以下关键优势：\u003c/p\u003e\u003cp data-pid=\"UgM_AtYf\"\u003e\u003cb\u003e1.\u003c/b\u003e \u003cb\u003e学习代码框架和实施方式\u003c/b\u003e：Prompt让我们轻松了解不熟悉的代码框架，就像本文中的Flask框架一样，即使我们之前对其一无所知。\u003c/p\u003e\u003cp data-pid=\"ZJAb8Nb0\"\u003e\u003cb\u003e2.\u003c/b\u003e \u003cb\u003e作为项目的第一步\u003c/b\u003e：实际工作中，从零开始构建项目的机会较少，通常是在现有代码和框架的上扩展。Prompt可以帮助我们快速启动项目，成为项目构建的强大起始点，提高我们的框架搭建能力。\u003c/p\u003e\u003cp data-pid=\"1EeoQk0U\"\u003e\u003cb\u003e3.\u003c/b\u003e \u003cb\u003e提高编程效率\u003c/b\u003e。不用自己重复造轮子了，一些成熟的常用算法，如冒泡排序，如SQL语句生成，再也不用自己一个单词一个单词的手动写，一行Prompt全搞定。\u003c/p\u003e\u003cp data-pid=\"w2a1d-a3\"\u003e4. \u003cb\u003e提高解决问题的效率\u003c/b\u003e。从上文解决问题的过程可以看到，通过Prompt来寻求解决问题的方法比传统检索要强大和高效的多，它给你组织和筛选了答案，不再需要你去海量的信息中筛选对你有用的信息。\u003c/p\u003e\u003cp data-pid=\"rTOFAPoR\"\u003e5. \u003cb\u003e提高代码的可维护性和可扩展性\u003c/b\u003e。Prompt可以帮助我们编写更易于维护和扩展的代码，因为我们可以使用模板和代码片段来编写结构化的代码，而不是手动的编写整个代码。这可以使代码更易于阅读和理解，同时也可以方便地进行修改和扩展。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp data-pid=\"fyJ6Dv12\"\u003e最后，目前利用Prompt和大模型进行编程还不算成熟，对于使用者来说还是需要有点基础，例如环境，例如基本调试和运行，基本IDE的使用等。当然，随着大模型技术的发展，现在已经涌现出了一些应用集成了Code interpreter，可以支持在线运行程序，校验程序的正确性，但也在发展阶段。大模型全栈课程中也提到：\u003cb\u003eAI 的能力不会超过使用者的判断力\u003c/b\u003e。虽然AI已经取得了很大的进步，但是它的能力仍然受到人类的知识和经验、数据和算法的限制。因此，在使用AI时，我们应该保持谨慎和理性，将其视为一种工具，而不是一种万能的方法。\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 1,
+          "thumbnails": [
+            {
+              "data_url": "",
+              "url": "https://pica.zhimg.com/80/v2-92a3f209fc24bdc1b4340ced4d21b6f6_qhd.jpg?source=4e949a73",
+              "type": "image",
+              "width": 1268,
+              "height": 706
+            }
+          ],
+          "type": "thumbnail_info",
+          "total_count": 12
+        },
+        "author": {
+          "id": "93d99722b6053513c29952ca23c1ba70",
+          "url_token": "capatin-5",
+          "name": "赵宏伟",
+          "headline": "上市公司总监",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/93d99722b6053513c29952ca23c1ba70",
+          "type": "people",
+          "avatar_url": "https://picx.zhimg.com/50/v2-5508ef3deadcb3db2018237e813398ed_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 1546,
+          "follower_count": 704,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "voting": 0,
+        "relationship": {
+          "is_voted": false,
+          "is_author": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0
+        },
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "OvMBCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYByIJMjM4NDA3NzM5Kgk2NzYyNDkyOTVKBuWFqOagiFAAWAFgAWoG5YWo5qCIcASAAZ3EmvC2i4gDmAEAoAEIqAEAsAEBuAEA0AHUo9+sBtgB3QHgAQmAAgG4AgDiAitlZHVfbm9ybWFsO1NPVVJDRV9TRUFSQ0hfRURVX0NPTU1PTl9BUlRJQ0xF+AIBigMAkgMTMTgwMzg5ODI1NDgxNzExMjA2NpoDAKIDCTEwMV8zXzMuMKoDCHRyYWluaW5nmAQB",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 8
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "我是一名从业五年的\u003cem\u003e全栈\u003c/em\u003e工程师。最开始我是做Java开发的，当时在近些年越来越多的岗位他不单单的是只要求你做前端或者后端。所以为了顺应当下的环境我不得不的去学习前端",
+        "title": "为什么\u003cem\u003e全栈\u003c/em\u003e工程师一般不害怕找不到工作呢？"
+      },
+      "object": {
+        "id": "685877060",
+        "title": "为什么\u003cem\u003e全栈\u003c/em\u003e工程师一般不害怕找不到工作呢？",
+        "type": "article",
+        "url": "https://api.zhihu.com/articles/685877060",
+        "excerpt": "我是一名从业五年的\u003cem\u003e全栈\u003c/em\u003e工程师。最开始我是做Java开发的，当时在近些年越来越多的岗位他不单单的是只要求你做前端或者后端。所以为了顺应当下的环境我不得不的去学习前端",
+        "voteup_count": 11,
+        "comment_count": 0,
+        "zfav_count": 5,
+        "created_time": 1709849996,
+        "updated_time": 1709849996,
+        "content": "\u003cp data-pid=\"-f2Hsv6F\"\u003e我是一名从业五年的全栈工程师。最开始我是做Java开发的，当时在近些年越来越多的岗位他不单单的是只要求你做前端或者后端。所以为了顺应当下的环境我不得不的去学习前端，从最初的js再到flutter，android，ios经过近些年度修炼我。。。。成功离职了\u003c/p\u003e\u003cp data-pid=\"01T_72U5\"\u003e离职了后我和大多数人一样，变得焦躁不安，因为失去了一份稳定的收入。于是我开始在某宝上接单（需要的朋友直接去top店铺找客服直接点问就行了），但是我经过多天的深思熟虑我在考虑一个问题，我们一直在别人的想法下开发出来的软件真的是对自己有意义的吗？\u003c/p\u003e\u003cp data-pid=\"cb_9hcUy\"\u003e技术是什么？技术是可以服务自己或者别人的工具。但是他仅仅是一个工具。我的大学老师和我说过一句话：“如果你想考写代码发家致富？记得到时候回来看看我，让我看看发财的程序员长什么样”。所以我们在想你缺技术？废话我就是做技术的。所以我抱着这个想法去尝试起了独立开发，但是总结回来独立开发还不是写代码，还不是做苦力？\u003c/p\u003e\u003cp data-pid=\"10WWXYA8\"\u003e我相信每位开发者都有这样的想法，那就是打造一款属于自己的APP，独立开发可不是单纯写写代码那么简单首先你要做到以下：\u003c/p\u003e\u003cul\u003e\u003cli data-pid=\"R5F-Rwsg\"\u003e具备良好的开发水平\u003c/li\u003e\u003cli data-pid=\"oM_wHeZ7\"\u003e站在客户的角度去想问题\u003c/li\u003e\u003cli data-pid=\"GR1qrEdE\"\u003e推广自己的应用\u003c/li\u003e\u003cli data-pid=\"tL8PkumE\"\u003e大量的市场调研\u003c/li\u003e\u003c/ul\u003e\u003cp data-pid=\"iEVXUFCu\"\u003e是不是又要站在老板的角度又要站在产品的角度去思考问题，还要去写代码。但是从当你做出了一款属于自己的APP，那种成就感是上班换不来的，你的创意性，和你软件的质量基本会成正比，当然也要学会自己去营销，我从开始的发布APP的两个月中的0收入到现在每个APP可以带来3000不等的收入，只能说独立开发比上班更有挑战性比上班更有意义且\u003cb\u003e自由\u003c/b\u003e\u003c/p\u003e\u003cp data-pid=\"M-iTxh_O\"\u003e如果你也想了解独立开发欢迎私信我讨论~\u003c/p\u003e\u003cp data-pid=\"CO38DEl-\"\u003e\u003cb\u003e不是卖课的！不是卖课的！不是卖课的！\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "author": {
+          "id": "1256d849f405ab7d6f83ba07b33ff567",
+          "url_token": "sjyyyyy-5",
+          "name": "mark-全站工程师",
+          "headline": "五年全栈开发经验，目前是一名软件独立开发作者",
+          "gender": -1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/1256d849f405ab7d6f83ba07b33ff567",
+          "type": "people",
+          "avatar_url": "https://pica.zhimg.com/50/v2-a2a74dee137faa48d9ce60351e44f115_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 11,
+          "follower_count": 7,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "voting": 0,
+        "relationship": {
+          "is_voted": false,
+          "is_author": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0
+        },
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "Ot4BCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYByIJMjQwNTQ3MTk3Kgk2ODU4NzcwNjBKBuWFqOagiFAAWAFgAWoG5YWo5qCIcASAAZ3EmvC2i4gDmAEAoAEJqAEAsAEBuAEA0AGM+6ivBtgBC+ABAIACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjCqAwDCAyJydW1fc2VhcmNoX3JlY2FsbF9hcl90bF90dW5lXzEwMjRkmAQA",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 9
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "并且Java、go、nodejs（大前端）能让你创业失败后找个还不错的工作，但是PHP工作不是很多了，且整体待遇不如这仨，一天不如一天。 \u003cem\u003e全栈\u003c/em\u003e需要考虑的东西很多，优先考虑效率，尽量避免冷门技术，特别对于创业的来说，你不能只考虑现在开发爽",
+        "title": "目前最具性价比的\u003cem\u003e全栈\u003c/em\u003e路线是啥？"
+      },
+      "object": {
+        "original_id": "667650778",
+        "id": "3506684644",
+        "type": "answer",
+        "excerpt": "并且Java、go、nodejs（大前端）能让你创业失败后找个还不错的工作，但是PHP工作不是很多了，且整体待遇不如这仨，一天不如一天。 \u003cem\u003e全栈\u003c/em\u003e需要考虑的东西很多，优先考虑效率，尽量避免冷门技术，特别对于创业的来说，你不能只考虑现在开发爽",
+        "url": "https://api.zhihu.com/answers/3506684644",
+        "voteup_count": 82,
+        "comment_count": 22,
+        "favorites_count": 157,
+        "created_time": 1716372746,
+        "updated_time": 1716372746,
+        "content": "\u003cp data-pid=\"2TJDWarl\"\u003e前端：\u003ci\u003e\u003cb\u003evue+uniapp\u003c/b\u003e\u003c/i\u003e。小程序、H5、网页、App基本都能梭哈了。强烈建议uniapp或者react native，千万不要碰flutter，特别是创业的团队，更应该以生产力为主。\u003c/p\u003e\u003cp data-pid=\"3zxopzSo\"\u003e桌面端：\u003ci\u003e\u003cb\u003eElectron\u003c/b\u003e。\u003c/i\u003e这几乎是现在最主流的选择，除非特殊需求，都是用这个了。\u003c/p\u003e\u003cp data-pid=\"CFHWU4h5\"\u003e后端\u003cb\u003e\u003ci\u003e：Java、go、nodejs\u003c/i\u003e\u003c/b\u003e（框架很多，大差不差）。不推荐PHP，这玩意儿在后端领域已经越来越边缘化了，生态不如Java，发展前景不如go，开发效率不如nodejs（前后端都写js效率会很高）。并且Java、go、nodejs（大前端）能让你创业失败后找个还不错的工作，但是PHP工作不是很多了，且整体待遇不如这仨，一天不如一天。\u003c/p\u003e\u003cp data-pid=\"kcq79P-b\"\u003e全栈需要考虑的东西很多，优先考虑效率，尽量避免冷门技术，特别对于创业的来说，你不能只考虑现在开发爽，你还得考虑以后万一自己不在一线开发了，你能不能找到人接盘写代码。\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": true
+        },
+        "question": {
+          "id": "594662421",
+          "type": "question",
+          "name": "目前最具性价比的\u003cem\u003e全栈\u003c/em\u003e路线是啥？",
+          "url": "https://api.zhihu.com/questions/594662421",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "6febdc3dc37fcf6d4ebabefdcc46e012",
+          "url_token": "zou-tian-44-30",
+          "name": "Luke",
+          "headline": "私密账号",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/6febdc3dc37fcf6d4ebabefdcc46e012",
+          "type": "people",
+          "avatar_url": "https://picx.zhimg.com/50/v2-c696f9e8af649b1925c40782aaf3cab6_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 34638,
+          "follower_count": 1828,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "Ot8BCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIJNjY3NjUwNzc4KgozNTA2Njg0NjQ0Mgg5NDQyODUwMjoJNTk0NjYyNDIxSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA5gBAKABCqgBALABAbgBANABioq3sgbYAVLgARaAAgG4AgCKAwCSAxMxODAzODk4MjU0ODE3MTEyMDY2mgMAogMJMTAxXzNfMy4wqgMAwgMNcnVjZW5lX2Fuc3dlcpgEAA==",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 195,
+        "visits_count": 1633906,
+        "description": "\u003cp\u003e请教一个问题。我目前是大二学生，正准备创业，由于人力和资金受限，必须两三个人完成一个app的开发。那么首先这件事可能嘛？二，这三个人需要分别学什么互相搭配，效率最高？\u003c/p\u003e",
+        "title": "目前最具性价比的全栈路线是啥？",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 10
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "基本都是前端经验比较丰富的人在做。 如果你本来做后端的，非常不建议转\u003cem\u003e全栈\u003c/em\u003e。因为后端东西比较多，精通很困难，并没有精力去学前端的东西。到时候你会发现面试\u003cem\u003e全栈\u003c/em\u003e前端不够精通，面后端也不够精通，最终变成全贱工程师",
+        "title": "成为\u003cem\u003e全栈\u003c/em\u003e开发工程师有多难?"
+      },
+      "object": {
+        "original_id": "368254494",
+        "id": "1859955150",
+        "type": "answer",
+        "excerpt": "基本都是前端经验比较丰富的人在做。 如果你本来做后端的，非常不建议转\u003cem\u003e全栈\u003c/em\u003e。因为后端东西比较多，精通很困难，并没有精力去学前端的东西。到时候你会发现面试\u003cem\u003e全栈\u003c/em\u003e前端不够精通，面后端也不够精通，最终变成全贱工程师",
+        "url": "https://api.zhihu.com/answers/1859955150",
+        "voteup_count": 19,
+        "comment_count": 0,
+        "favorites_count": 11,
+        "created_time": 1619616698,
+        "updated_time": 1619616737,
+        "content": "\u003cp data-pid=\"EScCVzxV\"\u003e现在的全栈，可以理解成前端工程师会一些后端，你可以看一下招聘，基本都是主前端副后端。\u003c/p\u003e\u003cp data-pid=\"0OyD5SgY\"\u003e基本都是前端经验比较丰富的人在做。\u003c/p\u003e\u003cp data-pid=\"yK6Abbkg\"\u003e如果你本来做后端的，非常不建议转全栈。因为后端东西比较多，精通很困难，并没有精力去学前端的东西。到时候你会发现面试全栈前端不够精通，面后端也不够精通，最终变成全贱工程师。\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": false
+        },
+        "question": {
+          "id": "428258838",
+          "type": "question",
+          "name": "成为\u003cem\u003e全栈\u003c/em\u003e开发工程师有多难?",
+          "url": "https://api.zhihu.com/questions/428258838",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "7ddda3bb4187ac6eb1a0c19a7de5ecc2",
+          "url_token": "wei-guan-39-58",
+          "name": "韦观",
+          "headline": "",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/7ddda3bb4187ac6eb1a0c19a7de5ecc2",
+          "type": "people",
+          "avatar_url": "https://picx.zhimg.com/50/v2-bdda0dd27444bdb2fc9500c04c78a285_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 19,
+          "follower_count": 4,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "Ot8BCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIJMzY4MjU0NDk0KgoxODU5OTU1MTUwMgg1NzQ0Nzg5MzoJNDI4MjU4ODM4SgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA5gBAKABC6gBALABAbgBANABuselhAbYARPgAQCAAgG4AgCKAwCSAxMxODAzODk4MjU0ODE3MTEyMDY2mgMAogMJMTAxXzNfMy4wqgMAwgMNcnVjZW5lX2Fuc3dlcpgEAA==",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 8,
+        "visits_count": 47580,
+        "description": "\u003cp\u003e之前有位大牛跟我说前端转全栈是最简单的，然后我就开始自学前端。\u003c/p\u003e",
+        "title": "成为全栈开发工程师有多难?",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 11
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "他的论点「算了一下，一个普通人只要不笨，一年是可以成长为\u003cem\u003e全栈\u003c/em\u003e工程师的。用不着一万小时。」是在没有相关经验下的猜想。本身欠缺说服力。 「\u003cem\u003e全栈\u003c/em\u003e工程师」是受争议的职称，现时并没有普遍接纳的定义、标准、认证",
+        "title": "如何看待「一年可以成长为\u003cem\u003e全栈\u003c/em\u003e工程师」的观点？"
+      },
+      "object": {
+        "original_id": "37961719",
+        "id": "106243654",
+        "type": "answer",
+        "excerpt": "他的论点「算了一下，一个普通人只要不笨，一年是可以成长为\u003cem\u003e全栈\u003c/em\u003e工程师的。用不着一万小时。」是在没有相关经验下的猜想。本身欠缺说服力。 「\u003cem\u003e全栈\u003c/em\u003e工程师」是受争议的职称，现时并没有普遍接纳的定义、标准、认证",
+        "url": "https://api.zhihu.com/answers/106243654",
+        "voteup_count": 813,
+        "comment_count": 59,
+        "favorites_count": 64,
+        "created_time": 1466052467,
+        "updated_time": 1466056965,
+        "content": "\u003cp data-pid=\"n2hEORAN\"\u003e看到他本人的答案后，我有以下几点意见：\u003c/p\u003e\u003col\u003e\u003cli data-pid=\"d7s5bwD9\"\u003e他本人声称是外行，他的论点「算了一下，一个普通人只要不笨，一年是可以成长为全栈工程师的。用不着一万小时。」是在没有相关经验下的猜想。本身欠缺说服力。\u003c/li\u003e\u003cli data-pid=\"y4zeAtCv\"\u003e「全栈工程师」是受争议的职称，现时并没有普遍接纳的定义、标准、认证。「一年是可以成长为全栈工程师的」与「一年是可以考到托福100分」不一样，前者无法被验证。\u003c/li\u003e\u003cli data-pid=\"2sgQ1tHQ\"\u003eC/C++ 不是微软的技术。\u003c/li\u003e\u003cli data-pid=\"eH7BJccG\"\u003e答案最后提到「哦，对了，我特地从台湾请来一位教练，做全栈工程师集训，我也要跟着学。2016 年 7 月 12 日开班，两个月，5 万元学费。具体报名方式，过两天公布。」这完全是一则广告。令人想到之前的微博有可能是为了产生争议，作为宣传课程的铺垫（我强调这点只属于猜测）。\u003c/li\u003e\u003c/ol\u003e\u003cp data-pid=\"O3kuQ2nH\"\u003e我认为「跨界学习、「不熟练就开始用」都是可以接受的。但只通过一年学习就称为「工程师」是有点过了。的确小朋友学习能力强，十几岁可以做出一些事情，但他们大部分应该不会认为自己是工程师。我中二的时候也用刚学会的 C 语言在 DOS 下开发过三维建模软件，虽然能跑起来，但能了解到自己的不足，缺乏一些相关的基础（数学、算法、软件工程等），做的东西很幼嫩，只是练手的玩具，距离商业上的水平很远。所以我认为，真的要以某个行业作为职业，无可避免需要扎实基础训练，而不能只会表层上的应用。编码或许只占软件工程师不到20%的时间，但余下的80%工作也是需要通过学习、有相关知识技能才能做得好。\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": false
+        },
+        "question": {
+          "id": "47359997",
+          "type": "question",
+          "name": "如何看待「一年可以成长为\u003cem\u003e全栈\u003c/em\u003e工程师」的观点？",
+          "url": "https://api.zhihu.com/questions/47359997",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "1e2c9261b85996ccc3c5436850127e33",
+          "url_token": "miloyip",
+          "name": "Milo Yip",
+          "headline": "游戏程序员、《游戏引擎架构》译者",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/1e2c9261b85996ccc3c5436850127e33",
+          "type": "people",
+          "avatar_url": "https://pic1.zhimg.com/50/v2-041d584bebcc5a34e709f2af38c654c9_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 367190,
+          "follower_count": 303964,
+          "badge_v2": {
+            "title": "2016 年度新知答主",
+            "merged_badges": [
+              {
+                "type": "best",
+                "detail_type": "best",
+                "title": "年度新知答主",
+                "description": "2016 年度新知答主",
+                "url": "https://www.zhihu.com/question/510340037",
+                "sources": [],
+                "icon": "",
+                "night_icon": ""
+              }
+            ],
+            "detail_badges": [
+              {
+                "type": "reward",
+                "detail_type": "honored_vip",
+                "title": "年度新知答主",
+                "description": "2016 年度新知答主",
+                "url": "https://www.zhihu.com/question/510340037",
+                "sources": [
+                  {
+                    "id": "2016",
+                    "token": "",
+                    "type": "year",
+                    "url": "",
+                    "name": "",
+                    "avatar_path": "",
+                    "avatar_url": "",
+                    "description": "",
+                    "priority": 2016
+                  }
+                ],
+                "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+                "night_icon": "https://pica.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c"
+              }
+            ],
+            "icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c",
+            "night_icon": "https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c"
+          },
+          "badge_v2_string": "{\"title\":\"2016 年度新知答主\",\"merged_badges\":[{\"type\":\"best\",\"detail_type\":\"best\",\"title\":\"年度新知答主\",\"description\":\"2016 年度新知答主\",\"url\":\"https://www.zhihu.com/question/510340037\",\"sources\":null,\"icon\":\"\",\"night_icon\":\"\",\"badge_status\":\"passed\"}],\"detail_badges\":[{\"type\":\"reward\",\"detail_type\":\"honored_vip\",\"title\":\"年度新知答主\",\"description\":\"2016 年度新知答主\",\"url\":\"https://www.zhihu.com/question/510340037\",\"sources\":[{\"id\":\"2016\",\"token\":\"\",\"type\":\"year\",\"url\":\"\",\"name\":\"\",\"avatar_path\":\"\",\"avatar_url\":\"\",\"description\":\"\",\"priority\":2016}],\"icon\":\"https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c\",\"night_icon\":\"https://pica.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c\",\"badge_status\":\"passed\"}],\"icon\":\"https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c\",\"night_icon\":\"https://picx.zhimg.com/v2-4a07bc69c4bb04444721f35b32125c75_l.png?source=32738c0c\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "flag": {
+          "flag_type": "author_follower",
+          "flag_text": ""
+        },
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "Ou8BCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIIMzc5NjE3MTkqCTEwNjI0MzY1NDIIMTExNTg0NTg6CDQ3MzU5OTk3SgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA5gBAKABDKgBALABAbgBAMIBD2F1dGhvcl9mb2xsb3dlctAB896IuwXYAa0G4AE7gAIBuAIAigMAkgMTMTgwMzg5ODI1NDgxNzExMjA2NpoDAKIDCTEwMV8zXzMuMKoDAMIDDXJ1Y2VuZV9hbnN3ZXKYBAA=",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 158,
+        "visits_count": 123532,
+        "description": "拜读过李笑来的《把时间当作朋友》，这本书不错，不过最近他发了两条微博，可参看“\u003ca class=\" wrap external\" href=\"https://link.zhihu.com/?target=http%3A//weibo.com/bylixiaolai%3Ftopnav%3D1%26wvr%3D6%26topsug%3D1%26is_all%3D1\"\u003e李笑来的微博_微博\u003c/a\u003e”主页，让我比较惊奇他为何会持以下这种观点？\u003cbr\u003e\u003cbr\u003e6月3日：“算了一下 一个普通人 只要不笨，一年是可以成长为 全栈工程师的。用不着一万小时。”\u003cbr\u003e6月12日：“对，微软的全部避开……”\u003cbr\u003e以下是截图：\u003cbr\u003e\u003cimg data-rawheight=\"295\" data-rawwidth=\"735\" src=\"3c8fbae345f5a480ee55174852f392a1.png\"\u003e你怎么看？\u003cbr\u003e===============2016-6-17日补充新信息==================\u003cbr\u003e2016年，stack overflow做了一个调查，来自173个国家的56033名开发者回答了45个问题。统计之后，stackoverflow在以下网址发布了调查统计结果：\u003ca class=\" wrap external\" href=\"https://link.zhihu.com/?target=http%3A//stackoverflow.com/research/developer-survey-2016\"\u003eStack Overflow Developer Survey 2016 Results\u003c/a\u003e。其中也涉及到“全栈工程师”相关的数据，挺有意思的，我把它的部分统计结果截图截了下来，附上简短的分析与评论写了篇博客，供诸君饭后解闷下酒……《\u003ca href=\"https://link.zhihu.com/?target=http%3A//jinxuliang.com/blog/Article/Read/f1e5ac71-2b27-4bdb-89fe-cb14e5dfadb2\" class=\" wrap external\"\u003e有趣的Stack overflow 2016年开发者调查结果》\u003c/a\u003e\u003cbr\u003e================================2016-6-15日更新=======================\u003cbr\u003e两三天的功夫，破百回答，看来大家对这个问题还是很关注的。\u003cbr\u003e我看了众人的回答，只想说一句，那些在评论和回答里骂人和进行人身攻击的，还是请你们离开吧……我提出这个问题，是期望能触发有意义的讨论与交流的。\u003cbr\u003e\u003cbr\u003e下面说说题主自己的观点（不想看的人请略过，请直接看本题下众人的精彩回答）\u003cbr\u003e\u003cbr\u003e我原先所理解的“全栈工程师”，是指那些技术全面，可以独当一面，能够拿起整个项目，解决各种实际问题的工程师，这样的人，他可以一个人做个产品出来，也可以成为一个团队带头人，是大伙心目中的“老大”……\u003cbr\u003e现在看来，我的观点实在是有点过于保守了。\u003cb\u003e原来现在的“全栈工程师”，是指这样的人，他能把所有的相关技术都捏在一起，能顺利run起来，就算是一个“全栈”了。\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e如果以这种定义来算的话，一年确实足以培养出一个“全栈”程序员，但我还是觉得这种“全栈”定义，标准定得实在太低了。\u003cbr\u003e\u003cbr\u003e想起来，如果以能run起来为标准，我也在无意之中干了一个培养“全栈”程序员的工作——我在网易开设的MOOC课程，《面向对象软件开发实践》(\u003ca class=\" wrap external\" href=\"https://link.zhihu.com/?target=http%3A//mooc.study.163.com/university/BIT%23/c\"\u003e北京理工大学\u003c/a\u003e)，介绍了开发移动互联应用的Server和Client端的相关技术，……，以这个标准来看，居然也算是一个“全栈”课程了，心中不禁有一点小激动啊！\u003cbr\u003e\u003cbr\u003e李先生还有一个观点：“\u003cb\u003e要避开微软技术……\u003c/b\u003e”，我主要使用微软技术写东西，不禁很好奇，这个观点的理由何在？\u003cbr\u003e事实上，微软技术用得非常广……，多少应用软件和行业软件系统，是用微软技术开发出来的，这难道不是事实吗？对于这样一个被广泛使用的技术家族，为什么学习要避开它呢？是因为微软技术很落伍？还是因为学微软技术就会被引到“邪路”上去？\u003cbr\u003e我估计避开原因还是因为微软技术在Web领域占有率不高，逼格不高吧！\u003cbr\u003e但出现占有率低现状的原因是因为微软在技术上差吗？\u003cbr\u003e非也！这其实是技术之外的因素在起作用……\u003cbr\u003e\u003cbr\u003e不展开了，还是看众人的精彩回复吧！\u003cbr\u003e\u003cbr\u003e最后再重申一下，欢迎大家畅所欲言，但请保持绅士风度，不骂人，不搞人身攻击，可否？",
+        "title": "如何看待「一年可以成长为全栈工程师」的观点？",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 12
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "过几年就会被淘汰的东西学了除了了解一些前端发展史实际用户并不大。 至于\u003cem\u003e全栈\u003c/em\u003e就算了吧，本质上是领一份薪水做两个人的活，背两份锅，市面上但凡直接招聘\u003cem\u003e全栈\u003c/em\u003e的岗位都不要去，大概率就是一个坑，你可以给自己的目标是以\u003cem\u003e全栈\u003c/em\u003e的方向去学，但是找工作不要找全栈",
+        "title": "前端，后端，\u003cem\u003e全栈\u003c/em\u003e哪个好找工作？"
+      },
+      "object": {
+        "original_id": "441556241",
+        "id": "2263117923",
+        "type": "answer",
+        "excerpt": "过几年就会被淘汰的东西学了除了了解一些前端发展史实际用户并不大。 至于\u003cem\u003e全栈\u003c/em\u003e就算了吧，本质上是领一份薪水做两个人的活，背两份锅，市面上但凡直接招聘\u003cem\u003e全栈\u003c/em\u003e的岗位都不要去，大概率就是一个坑，你可以给自己的目标是以\u003cem\u003e全栈\u003c/em\u003e的方向去学，但是找工作不要找全栈",
+        "url": "https://api.zhihu.com/answers/2263117923",
+        "voteup_count": 83,
+        "comment_count": 22,
+        "favorites_count": 65,
+        "created_time": 1639019507,
+        "updated_time": 1639019507,
+        "content": "\u003cp data-pid=\"Wh5Q6raH\"\u003e毫无疑问是后端，尤其是java，至少你刚开始入门的渠道和方向别人都给你安排好了，学就完事了，java这条路上，初级阶段已经没什么“选择性”，基本上都是固定模式固定套路，这样更方便新手上手，而且初中级知识都比较垂直，高级辐射各个方面，因为你已经入门了，到时候自学能力提起来就比较顺。\u003c/p\u003e\u003cp data-pid=\"xBi95f0w\"\u003e你说的前端，虽然已经不再是jquery那个年代刀耕火种，但是工具链，技术栈庞杂，并不是难，而是杂，甚至乱，杂到你换一个项目像完全换了一整套技术积累，就很蛋疼，尤其是对于新手，光那个css我觉得就让人头皮发麻，毫无逻辑性的写法，大量的要靠背。后面还有什么sass less，react还有什么style-components，css module，你还要操心各种编译，webpack，vite，rollup，gulp，Babel，各种框架，vue/react/ng，vue还出了个3，搞composition api，还有什么ssr这都是些什么玩意儿，学这么多乱七八糟的，可能压根都没学到核心东西，过几年就会被淘汰的东西学了除了了解一些前端发展史实际用户并不大。\u003c/p\u003e\u003cp data-pid=\"_mCl56ln\"\u003e至于全栈就算了吧，本质上是领一份薪水做两个人的活，背两份锅，市面上但凡直接招聘全栈的岗位都不要去，大概率就是一个坑，你可以给自己的目标是以全栈的方向去学，但是找工作不要找全栈。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": false
+        },
+        "question": {
+          "id": "452319377",
+          "type": "question",
+          "name": "前端，后端，\u003cem\u003e全栈\u003c/em\u003e哪个好找工作？",
+          "url": "https://api.zhihu.com/questions/452319377",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "0c23ad5dd74e025f6a2840295944dcc1",
+          "url_token": "arsizes",
+          "name": "今时雨",
+          "headline": "昨夜星辰昨夜风",
+          "gender": -1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/0c23ad5dd74e025f6a2840295944dcc1",
+          "type": "people",
+          "avatar_url": "https://picx.zhimg.com/50/v2-e3e4395536a859652e88c5a4341dacce_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 50538,
+          "follower_count": 9999,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "Ot8BCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIJNDQxNTU2MjQxKgoyMjYzMTE3OTIzMgg2Mjc5NDkwNzoJNDUyMzE5Mzc3SgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA5gBAKABDagBALABAbgBANAB8+fFjQbYAVPgARaAAgG4AgCKAwCSAxMxODAzODk4MjU0ODE3MTEyMDY2mgMAogMJMTAxXzNfMy4wqgMAwgMNcnVjZW5lX2Fuc3dlcpgEAA==",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 123,
+        "visits_count": 623460,
+        "description": "\u003cp\u003e现在大四学的东西乱七八糟的不知道能不能找到工作…\u003c/p\u003e\u003cp\u003e学历非双一流普通一本\u003c/p\u003e\u003cp\u003e前端技术栈h5 cs js（只会ES6后面的还没学）stylus vue2.0(现在3.0都出了唉，学校有开舍react-native的课程，忙着刷leetcod就没咋上) \u003c/p\u003e\u003cp\u003e后端技术栈 java springboot springcloud springcloudAlibaba（没经历过SSM SSH的阶段，没错jsp都没写过）mysql redis  rickermq\u003c/p\u003e\u003cp\u003e运维技术栈 linux docker k8s nginx jenkins(都会用不精通)\u003c/p\u003e\u003cp\u003e小程序 pc h5 安卓都做过\u003c/p\u003e\u003cp\u003e分布式集群啥的只能说完成过部署和简单测试，\u003c/p\u003e\u003cp\u003e做过最复杂业务只有秒杀…\u003c/p\u003e\u003cp\u003e算法会的不多 数据结构也不太牛\u003c/p\u003e\u003cp\u003e平时接接外包啥的有点积蓄不过估计去北上广深也抗不住多久\u003c/p\u003e\u003cp\u003e因为学的太多了，没有真正精通的，我应该拿什么技术栈应聘什么岗位最合适呢？求指教，最近真的很慌…\u003c/p\u003e\u003cp\u003e\u003c/p\u003e",
+        "title": "前端，后端，全栈哪个好找工作？",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 13
+    },
+    {
+      "type": "relevant_query",
+      "id": "5f5ee276d999ec92df3b78996c161fef",
+      "index": 14,
+      "query_list": [
+        {
+          "query": "全栈和后端",
+          "id": "4191851126699852144",
+          "attached_info_bytes": "OnsSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABDqgBALABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+        },
+        {
+          "query": "全栈技术",
+          "id": "8822944852497864225",
+          "attached_info_bytes": "OnsSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABDqgBAbABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+        },
+        {
+          "query": "ai大模型全栈课程",
+          "id": "2601079339519904337",
+          "attached_info_bytes": "OnsSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABDqgBArABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+        },
+        {
+          "query": "ai大模型全栈工程师培养计划",
+          "id": "-3137488071852632680",
+          "attached_info_bytes": "OnsSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABDqgBA7ABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+        },
+        {
+          "query": "全栈框架",
+          "id": "-8714126307426330473",
+          "attached_info_bytes": "OnsSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABDqgBBLABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+        },
+        {
+          "query": "全栈项目",
+          "id": "48345544248422943",
+          "attached_info_bytes": "OnsSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABDqgBBbABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+        }
+      ],
+      "attached_info_bytes": "OngSIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA6ABDrABBYACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA="
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "碰到有些人的简历里突出自己是是\u003cem\u003e全栈\u003c/em\u003e工程师，用的是高亮「全栈」的字眼，生怕别人看不见，但是过来面试就不行了，基础知识都不懂。 感觉「\u003cem\u003e全栈\u003c/em\u003e」害人不浅啊，搞的现在的技术人员相当浮躁",
+        "title": "怎样成为\u003cem\u003e全栈\u003c/em\u003e工程师（Full Stack Developer）？"
+      },
+      "object": {
+        "original_id": "3925468",
+        "id": "21816553",
+        "type": "answer",
+        "excerpt": "碰到有些人的简历里突出自己是是\u003cem\u003e全栈\u003c/em\u003e工程师，用的是高亮「全栈」的字眼，生怕别人看不见，但是过来面试就不行了，基础知识都不懂。 感觉「\u003cem\u003e全栈\u003c/em\u003e」害人不浅啊，搞的现在的技术人员相当浮躁",
+        "url": "https://api.zhihu.com/answers/21816553",
+        "voteup_count": 32,
+        "comment_count": 8,
+        "favorites_count": 4,
+        "created_time": 1390282358,
+        "updated_time": 1390282358,
+        "content": "\u003cp data-pid=\"NzkZt5NO\"\u003e最近招人，碰到有些人的简历里突出自己是是全栈工程师，用的是高亮「全栈」的字眼，生怕别人看不见，但是过来面试就不行了，基础知识都不懂。 感觉「全栈」害人不浅啊，搞的现在的技术人员相当浮躁。\u003c/p\u003e\u003cp data-pid=\"hlP1ia8c\"\u003e所以我的建议是，不要在乎自己是不是全栈工程师，起码首先应该有一门深入的技术吧？由深到广，这是一个知识学习积累的过程，不是个Title。\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": false
+        },
+        "question": {
+          "id": "22420900",
+          "type": "question",
+          "name": "怎样成为\u003cem\u003e全栈\u003c/em\u003e工程师（Full Stack Developer）？",
+          "url": "https://api.zhihu.com/questions/22420900",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "5be040c7edb6ee5ba769cf5f737b1ba9",
+          "url_token": "blackanger",
+          "name": "张汉东",
+          "headline": "我是一面镜子",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/5be040c7edb6ee5ba769cf5f737b1ba9",
+          "type": "people",
+          "avatar_url": "https://picx.zhimg.com/50/v2-aae74274182615a00d57621efa4864e4_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 128959,
+          "follower_count": 158563,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "flag": {
+          "flag_type": "author_follower",
+          "flag_text": ""
+        },
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "OusBCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIHMzkyNTQ2OCoIMjE4MTY1NTMyBzExNDkxOTM6CDIyNDIwOTAwSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA5gBAKABD6gBALABAbgBAMIBD2F1dGhvcl9mb2xsb3dlctAB9oz4lgXYASDgAQiAAgG4AgCKAwCSAxMxODAzODk4MjU0ODE3MTEyMDY2mgMAogMJMTAxXzNfMy4wqgMAwgMNcnVjZW5lX2Fuc3dlcpgEAA==",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 256,
+        "visits_count": 3795441,
+        "description": "成为全栈工程师一般的学习路径是怎样的?\u003cbr\u003e\u003cbr\u003e补充一下Full Stack Developer的定义和标准：\u003ca href=\"http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/\" data-editable=\"true\" data-title=\"What is a Full Stack developer?\" class=\"\"\u003eWhat is a Full Stack developer?\u003c/a\u003e，这样大家讨论怎样成为Full Stack Developer时不会偏的太远。\u003cbr\u003e\u003cbr\u003e\u003cblockquote\u003eIs it reasonable to expect mere morals to have mastery over every facet of the development stack? Probably not, but Facebook can ask for it. I was told at OSCON by a Facebook employee that they only hire ‘Full Stack’ developers.  Well, what does that mean? To me, \u003cb\u003ea Full Stack Developer is someone with familiarity in each layer, if not mastery in many and a genuine interest in all software technology...\u003c/b\u003e\u003c/blockquote\u003e",
+        "title": "怎样成为全栈工程师（Full Stack Developer）？",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 15
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "app端：react native with expo + typescript web端：react.js + typescript api端：trpc 导出类型给app和web用",
+        "title": "目前最具性价比的\u003cem\u003e全栈\u003c/em\u003e路线是啥？"
+      },
+      "object": {
+        "original_id": "622693705",
+        "id": "3259377731",
+        "type": "answer",
+        "excerpt": "app端：react native with expo + typescript web端：react.js + typescript api端：trpc 导出类型给app和web用",
+        "url": "https://api.zhihu.com/answers/3259377731",
+        "voteup_count": 880,
+        "comment_count": 71,
+        "favorites_count": 1815,
+        "created_time": 1697919134,
+        "updated_time": 1698313720,
+        "content": "\u003cp data-pid=\"NA_R6cC8\"\u003eapp端：react native with expo + typescript\u003c/p\u003e\u003cp data-pid=\"46XT9mSQ\"\u003eweb端：react.js + typescript\u003c/p\u003e\u003cp data-pid=\"4C8UT4IL\"\u003eapi端：trpc 导出类型给app和web用，或者nest.js + 手动编写类型声明然后复制到app和web端用(也可以单独抽出一个名为datasource的monorepo，这样三个项目都可以共用这一个类型声明，这也是很多大厂以及我目前在用的方式)\u003c/p\u003e\u003cp data-pid=\"fMe2lI5b\"\u003e以上三个项目全部放在同一个git repo下做monorepo(用pnpm的workspace即可)\u003c/p\u003e\u003cp data-pid=\"wrCasPk_\"\u003e这是目前性价比最高并且社区支持最完善的方案，之所以说性价比高是因为只需要学习react和nest.js这两个框架即可。稳定性好指的是typescript可以保证类型安全确保多个项目之间对接API不会有问题。社区支持完善就不用说了，react.js和nest.js都是node.js技术栈中在前后端领域各自都最火的框架，这也是很多大厂在用的相关框架（不信你可以去npm官网查一下这几个库的star，更新频率以及每周下载量等数据，还有react.js和nest.js的生态环境，google在medium和stackoverflow等网站查一下这些框架的名称调研一下使用情况，然后再去招聘网站评估一下给这些技术栈找接盘侠的难度，和其他那几个回答提到的什么flutter，uniapp，weex，fastapi，rails之类的和他们相比根本就不是一个等级，flutter目前除了闲鱼好像基本没有大厂在用，rn的话有airbnb，ctrip携程，wix以及expo官方在支持，minor version也在持续升级追随react的升级脚步，最近几个版本把js引擎也升级到了facebook的hermes，性能又更上一个台阶（react native性能问题已经是老黄历了，2023年末我拿个8年前的高通800系的手机都能跑最新版rn开发的app）\u003c/p\u003e\u003cp data-pid=\"GvduBTVu\"\u003e你选个flutter就不说学习dart的成本了，招人也困难，单独招flutter很难找，但是招个写react前端的人转rn是很快的，uniapp这种国产框架不予置评，自己百度一下看看就知道多少坑，其他什么乱七八糟的框架的社区支持都不如rn和nest，最直观的就是看招聘jd，教程文章数量，stackoverflow的提问解答率就知道了）\u003c/p\u003e\u003cp data-pid=\"BAMsYE9V\"\u003e我目前已经有多个生产环境项目在用这套架构，配合 github actions做CI，sentry做监控，react native编译直接用expo的eas云端编译服务甚至可以做到本地不需要搭建安卓和ios开发环境，只需要装一个expo app即可真机开发并且自带热更新\u003c/p\u003e\u003cp data-pid=\"lNR91m2F\"\u003e这套方案我已经使用有三年之久没有出现任何严重问题，无论是公司项目还是学校项目还是自己外包接单的项目用这套方案都非常顺手，找人接手和培训也很方便，基本上只要会写js和ts即可，这两个语言的上手难度和环境搭建难度也不是很高，node环境可以直接用nvm安装，多版本切换很方便，某个版本搞坏了也可以用nvm卸载后再重装，不污染系统也无需设置环境变量。至于npm registry，即使在国内，也有淘宝cnpm提供完整的第三方依赖包镜像支持。\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": true
+        },
+        "question": {
+          "id": "594662421",
+          "type": "question",
+          "name": "目前最具性价比的\u003cem\u003e全栈\u003c/em\u003e路线是啥？",
+          "url": "https://api.zhihu.com/questions/594662421",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "5fe93d9e436715d6d5cb49245af3b88c",
+          "url_token": "changwei1006",
+          "name": "昌维",
+          "headline": "我不生产代码，我只是代码的搬运工。",
+          "gender": 0,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/5fe93d9e436715d6d5cb49245af3b88c",
+          "type": "people",
+          "avatar_url": "https://pic1.zhimg.com/50/v2-e78360ca7f3ba089565a80abee166749_l.jpg?source=4e949a73",
+          "badge": [
+            {
+              "type": "identity",
+              "description": "国立台湾科技大学 电子工程硕士在读",
+              "topics": []
+            },
+            {
+              "type": "identity",
+              "description": "已认证的机构",
+              "topics": []
+            }
+          ],
+          "authority_info": null,
+          "voteup_count": 58141,
+          "follower_count": 25928,
+          "badge_v2": {
+            "title": "国立台湾科技大学 电子工程硕士在读",
+            "merged_badges": [
+              {
+                "type": "identity",
+                "detail_type": "identity",
+                "title": "认证",
+                "description": "国立台湾科技大学 电子工程硕士在读",
+                "url": "https://zhuanlan.zhihu.com/p/96956163",
+                "sources": [],
+                "icon": "",
+                "night_icon": ""
+              }
+            ],
+            "detail_badges": [
+              {
+                "type": "identity",
+                "detail_type": "identity_people",
+                "title": "已认证的个人",
+                "description": "国立台湾科技大学 电子工程硕士在读",
+                "url": "https://zhuanlan.zhihu.com/p/96956163",
+                "sources": [],
+                "icon": "https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+                "night_icon": "https://pica.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c"
+              }
+            ],
+            "icon": "https://pic1.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c",
+            "night_icon": "https://pica.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c"
+          },
+          "old_badges": [
+            {
+              "type": "identity",
+              "description": "国立台湾科技大学 电子工程硕士在读"
+            }
+          ],
+          "badge_v2_string": "{\"title\":\"国立台湾科技大学 电子工程硕士在读\",\"merged_badges\":[{\"type\":\"identity\",\"detail_type\":\"identity\",\"title\":\"认证\",\"description\":\"国立台湾科技大学 电子工程硕士在读\",\"url\":\"https://zhuanlan.zhihu.com/p/96956163\",\"sources\":[],\"icon\":\"\",\"night_icon\":\"\",\"badge_status\":\"passed\"}],\"detail_badges\":[{\"type\":\"identity\",\"detail_type\":\"identity_people\",\"title\":\"已认证的个人\",\"description\":\"国立台湾科技大学 电子工程硕士在读\",\"url\":\"https://zhuanlan.zhihu.com/p/96956163\",\"sources\":[],\"icon\":\"https://picx.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c\",\"night_icon\":\"https://pica.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c\",\"badge_status\":\"passed\"}],\"icon\":\"https://pic1.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c\",\"night_icon\":\"https://pica.zhimg.com/v2-2ddc5cc683982648f6f123616fb4ec09_l.png?source=32738c0c\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "OuABCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIJNjIyNjkzNzA1KgozMjU5Mzc3NzMxMgg5NDQyODUwMjoJNTk0NjYyNDIxSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA5gBAKABEKgBALABAbgBANABnuHQqQbYAfAG4AFHgAIBuAIAigMAkgMTMTgwMzg5ODI1NDgxNzExMjA2NpoDAKIDCTEwMV8zXzMuMKoDAMIDDW11bHRpX2Fuc3dlcnOYBAA=",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 195,
+        "visits_count": 1633906,
+        "description": "\u003cp\u003e请教一个问题。我目前是大二学生，正准备创业，由于人力和资金受限，必须两三个人完成一个app的开发。那么首先这件事可能嘛？二，这三个人需要分别学什么互相搭配，效率最高？\u003c/p\u003e",
+        "title": "目前最具性价比的全栈路线是啥？",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 16
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "确实做到了。现在年轻人真不得了，这么多\u003cem\u003e全栈\u003c/em\u003e，结果搞了半天是 React + NodeJS，懂点 JavaScript 就\u003cem\u003e全栈\u003c/em\u003e了。 蛤？",
+        "title": "\u003cem\u003e全栈\u003c/em\u003e工程师为什么会招黑？"
+      },
+      "object": {
+        "original_id": "48225204",
+        "id": "131768621",
+        "type": "answer",
+        "excerpt": "确实做到了。现在年轻人真不得了，这么多\u003cem\u003e全栈\u003c/em\u003e，结果搞了半天是 React + NodeJS，懂点 JavaScript 就\u003cem\u003e全栈\u003c/em\u003e了。 蛤？",
+        "url": "https://api.zhihu.com/answers/131768621",
+        "voteup_count": 204,
+        "comment_count": 81,
+        "favorites_count": 40,
+        "created_time": 1479393296,
+        "updated_time": 1479400593,
+        "content": "\u003cp data-pid=\"20txLBNz\"\u003e先忽略领域知识，只说语言。\u003c/p\u003e\u003cp data-pid=\"5D3rA21b\"\u003e我开始以为他们说的全栈是：后端掌握 C++/C 或 Java，前端掌握 React、Bootstrap，客户端通晓Android 或 iOS，还可以兼职运维工作，我有认识的工程师非常聪明、努力，确实做到了。现在年轻人真不得了，这么多全栈，结果搞了半天是 React + NodeJS，懂点 JavaScript 就全栈了。\u003c/p\u003e\u003cp data-pid=\"Plr9GQF4\"\u003e蛤？\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": false
+        },
+        "question": {
+          "id": "52338974",
+          "type": "question",
+          "name": "\u003cem\u003e全栈\u003c/em\u003e工程师为什么会招黑？",
+          "url": "https://api.zhihu.com/questions/52338974",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "95d8395899bbe94e388744c6737ff336",
+          "url_token": "loongX",
+          "name": "谢龙",
+          "headline": "前小米员工",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/95d8395899bbe94e388744c6737ff336",
+          "type": "people",
+          "avatar_url": "https://picx.zhimg.com/50/b84871031_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 7995,
+          "follower_count": 6658,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "Ot0BCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIINDgyMjUyMDQqCTEzMTc2ODYyMTIIMTMxNTM5Njc6CDUyMzM4OTc0SgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA5gBAKABEagBALABAbgBANABkIC3wQXYAcwB4AFRgAIBuAIAigMAkgMTMTgwMzg5ODI1NDgxNzExMjA2NpoDAKIDCTEwMV8zXzMuMKoDAMIDDXJ1Y2VuZV9hbnN3ZXKYBAA=",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 169,
+        "visits_count": 600682,
+        "description": "最近黑全栈工程师的比较多，而且听说一种说法，说全栈工程师没有存在的必要，真的是这样吗~",
+        "title": "全栈工程师为什么会招黑？",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 17
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "你们才开始吹\u003cem\u003e全栈\u003c/em\u003e么？我们都说自己是“全干工程师”了。 全干(All-Do)工程师 定义： 同时具备前端、后端、架构、运维、安全、产品、设计、摄影（像）、剪辑、市",
+        "title": "如何看待「一年可以成长为\u003cem\u003e全栈\u003c/em\u003e工程师」的观点？"
+      },
+      "object": {
+        "original_id": "37727387",
+        "id": "105665947",
+        "type": "answer",
+        "excerpt": "你们才开始吹\u003cem\u003e全栈\u003c/em\u003e么？我们都说自己是“全干工程师”了。 全干(All-Do)工程师 定义： 同时具备前端、后端、架构、运维、安全、产品、设计、摄影（像）、剪辑、市",
+        "url": "https://api.zhihu.com/answers/105665947",
+        "voteup_count": 127,
+        "comment_count": 32,
+        "favorites_count": 12,
+        "created_time": 1465750212,
+        "updated_time": 1527221074,
+        "content": "\u003cp data-pid=\"Xa3YTkUd\"\u003e你们才开始吹全栈么？我们都说自己是“全干工程师”了。\u003cbr/\u003e全干(All-Do)工程师 定义：\u003cbr/\u003e同时具备前端、后端、架构、运维、安全、产品、设计、摄影（像）、剪辑、市场、人力资源、销售、财务、运营、分析、保洁、运输、舞蹈、音乐、卖萌、撒娇和任何就职公司所需要的技能的工程师。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp data-pid=\"8WUJHQtW\"\u003e用通俗的话讲，就是打杂的。\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp data-pid=\"EmwsT73W\"\u003e--------------过百更新线---------------------\u003c/p\u003e\u003cp class=\"ztext-empty-paragraph\"\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp data-pid=\"3ZgQE_7e\"\u003e评论区还有小伙伴说要具备 充当吉祥物，做饭，情感顾问，大保健，修电脑等技能\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": false
+        },
+        "question": {
+          "id": "47359997",
+          "type": "question",
+          "name": "如何看待「一年可以成长为\u003cem\u003e全栈\u003c/em\u003e工程师」的观点？",
+          "url": "https://api.zhihu.com/questions/47359997",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "ce49044dcd6980720523fa9f514526a1",
+          "url_token": "summershrimp",
+          "name": "张一菜",
+          "headline": "全球首个全干工程师/专业打杂",
+          "gender": 1,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/ce49044dcd6980720523fa9f514526a1",
+          "type": "people",
+          "avatar_url": "https://picx.zhimg.com/50/2784fa227_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 9757,
+          "follower_count": 879,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "OtwBCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIIMzc3MjczODcqCTEwNTY2NTk0NzIIMTExNTg0NTg6CDQ3MzU5OTk3SgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA5gBAKABEqgBALABAbgBANABxKX2ugXYAX/gASCAAgG4AgCKAwCSAxMxODAzODk4MjU0ODE3MTEyMDY2mgMAogMJMTAxXzNfMy4wqgMAwgMNcnVjZW5lX2Fuc3dlcpgEAA==",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 158,
+        "visits_count": 123532,
+        "description": "拜读过李笑来的《把时间当作朋友》，这本书不错，不过最近他发了两条微博，可参看“\u003ca class=\" wrap external\" href=\"https://link.zhihu.com/?target=http%3A//weibo.com/bylixiaolai%3Ftopnav%3D1%26wvr%3D6%26topsug%3D1%26is_all%3D1\"\u003e李笑来的微博_微博\u003c/a\u003e”主页，让我比较惊奇他为何会持以下这种观点？\u003cbr\u003e\u003cbr\u003e6月3日：“算了一下 一个普通人 只要不笨，一年是可以成长为 全栈工程师的。用不着一万小时。”\u003cbr\u003e6月12日：“对，微软的全部避开……”\u003cbr\u003e以下是截图：\u003cbr\u003e\u003cimg data-rawheight=\"295\" data-rawwidth=\"735\" src=\"3c8fbae345f5a480ee55174852f392a1.png\"\u003e你怎么看？\u003cbr\u003e===============2016-6-17日补充新信息==================\u003cbr\u003e2016年，stack overflow做了一个调查，来自173个国家的56033名开发者回答了45个问题。统计之后，stackoverflow在以下网址发布了调查统计结果：\u003ca class=\" wrap external\" href=\"https://link.zhihu.com/?target=http%3A//stackoverflow.com/research/developer-survey-2016\"\u003eStack Overflow Developer Survey 2016 Results\u003c/a\u003e。其中也涉及到“全栈工程师”相关的数据，挺有意思的，我把它的部分统计结果截图截了下来，附上简短的分析与评论写了篇博客，供诸君饭后解闷下酒……《\u003ca href=\"https://link.zhihu.com/?target=http%3A//jinxuliang.com/blog/Article/Read/f1e5ac71-2b27-4bdb-89fe-cb14e5dfadb2\" class=\" wrap external\"\u003e有趣的Stack overflow 2016年开发者调查结果》\u003c/a\u003e\u003cbr\u003e================================2016-6-15日更新=======================\u003cbr\u003e两三天的功夫，破百回答，看来大家对这个问题还是很关注的。\u003cbr\u003e我看了众人的回答，只想说一句，那些在评论和回答里骂人和进行人身攻击的，还是请你们离开吧……我提出这个问题，是期望能触发有意义的讨论与交流的。\u003cbr\u003e\u003cbr\u003e下面说说题主自己的观点（不想看的人请略过，请直接看本题下众人的精彩回答）\u003cbr\u003e\u003cbr\u003e我原先所理解的“全栈工程师”，是指那些技术全面，可以独当一面，能够拿起整个项目，解决各种实际问题的工程师，这样的人，他可以一个人做个产品出来，也可以成为一个团队带头人，是大伙心目中的“老大”……\u003cbr\u003e现在看来，我的观点实在是有点过于保守了。\u003cb\u003e原来现在的“全栈工程师”，是指这样的人，他能把所有的相关技术都捏在一起，能顺利run起来，就算是一个“全栈”了。\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e如果以这种定义来算的话，一年确实足以培养出一个“全栈”程序员，但我还是觉得这种“全栈”定义，标准定得实在太低了。\u003cbr\u003e\u003cbr\u003e想起来，如果以能run起来为标准，我也在无意之中干了一个培养“全栈”程序员的工作——我在网易开设的MOOC课程，《面向对象软件开发实践》(\u003ca class=\" wrap external\" href=\"https://link.zhihu.com/?target=http%3A//mooc.study.163.com/university/BIT%23/c\"\u003e北京理工大学\u003c/a\u003e)，介绍了开发移动互联应用的Server和Client端的相关技术，……，以这个标准来看，居然也算是一个“全栈”课程了，心中不禁有一点小激动啊！\u003cbr\u003e\u003cbr\u003e李先生还有一个观点：“\u003cb\u003e要避开微软技术……\u003c/b\u003e”，我主要使用微软技术写东西，不禁很好奇，这个观点的理由何在？\u003cbr\u003e事实上，微软技术用得非常广……，多少应用软件和行业软件系统，是用微软技术开发出来的，这难道不是事实吗？对于这样一个被广泛使用的技术家族，为什么学习要避开它呢？是因为微软技术很落伍？还是因为学微软技术就会被引到“邪路”上去？\u003cbr\u003e我估计避开原因还是因为微软技术在Web领域占有率不高，逼格不高吧！\u003cbr\u003e但出现占有率低现状的原因是因为微软在技术上差吗？\u003cbr\u003e非也！这其实是技术之外的因素在起作用……\u003cbr\u003e\u003cbr\u003e不展开了，还是看众人的精彩回复吧！\u003cbr\u003e\u003cbr\u003e最后再重申一下，欢迎大家畅所欲言，但请保持绅士风度，不骂人，不搞人身攻击，可否？",
+        "title": "如何看待「一年可以成长为全栈工程师」的观点？",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 18
+    },
+    {
+      "type": "search_result",
+      "highlight": {
+        "description": "主要是方便啊。。而且不是小厂才要\u003cem\u003e全栈\u003c/em\u003e，像facebook基本都是全栈，之前微软来学校招人，和人家聊了一下，人家也是直接说一个合格的软件工程师肯定要会多门编程语言",
+        "title": "那些大厂的\u003cem\u003e全栈\u003c/em\u003e工程师有用武之地吗？"
+      },
+      "object": {
+        "original_id": "98741312",
+        "id": "377710375",
+        "type": "answer",
+        "excerpt": "主要是方便啊。。而且不是小厂才要\u003cem\u003e全栈\u003c/em\u003e，像facebook基本都是全栈，之前微软来学校招人，和人家聊了一下，人家也是直接说一个合格的软件工程师肯定要会多门编程语言",
+        "url": "https://api.zhihu.com/answers/377710375",
+        "voteup_count": 4,
+        "comment_count": 2,
+        "favorites_count": 3,
+        "created_time": 1524832030,
+        "updated_time": 1524832030,
+        "content": "\u003cp data-pid=\"Mjqo5Kkf\"\u003e主要是方便啊。。而且不是小厂才要全栈，像facebook基本都是全栈，之前微软来学校招人，和人家聊了一下，人家也是直接说一个合格的软件工程师肯定要会多门编程语言。对于刚毕业和刚入门的人来说会一门就差不多了，但对于老手会几门很正常，主要是编程思想，其余的就是记住语言特性和使用场景了，全栈基本不是难事。\u003c/p\u003e",
+        "thumbnail_info": {
+          "count": 0,
+          "thumbnails": [],
+          "type": "thumbnail_info",
+          "total_count": 0
+        },
+        "relationship": {
+          "voting": 0,
+          "is_author": false,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "following_upvoter": [],
+          "following_upvoter_count": 0,
+          "following_collect": [],
+          "following_collect_count": 0,
+          "high_level_creator": [],
+          "high_level_creator_count": 0,
+          "is_following": false
+        },
+        "question": {
+          "id": "275002041",
+          "type": "question",
+          "name": "那些大厂的\u003cem\u003e全栈\u003c/em\u003e工程师有用武之地吗？",
+          "url": "https://api.zhihu.com/questions/275002041",
+          "answer_count": 0,
+          "follow_count": 0,
+          "attached_info_bytes": ""
+        },
+        "author": {
+          "id": "80e29d52cb544729f2592b19bb0cde89",
+          "url_token": "liu-jin-cheng-15-82",
+          "name": "知乎用户5Zr4w1",
+          "headline": "",
+          "gender": 0,
+          "is_followed": false,
+          "is_following": false,
+          "user_type": "people",
+          "url": "https://api.zhihu.com/people/80e29d52cb544729f2592b19bb0cde89",
+          "type": "people",
+          "avatar_url": "https://pica.zhimg.com/50/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=4e949a73",
+          "badge": [],
+          "authority_info": null,
+          "voteup_count": 3670,
+          "follower_count": 848,
+          "badge_v2": {
+            "title": "",
+            "merged_badges": [],
+            "detail_badges": [],
+            "icon": "",
+            "night_icon": ""
+          },
+          "badge_v2_string": "{\"title\":\"\",\"merged_badges\":[],\"detail_badges\":null,\"icon\":\"\",\"night_icon\":\"\"}",
+          "topic_bayes_map": null
+        },
+        "is_anonymous": false,
+        "is_zhi_plus": false,
+        "is_zhi_plus_content": false,
+        "extra": "",
+        "health_tag": "",
+        "sub_content_type": "",
+        "settings": {
+          "table_of_contents": {
+            "enabled": false
+          }
+        },
+        "attached_info_bytes": "Ot0BCgtwbGFjZWhvbGRlchIgNzQ1OGQ3ZTI3MWQwNmZlNjJjODlhN2UwMDI4Nzc0ZGQYBCIIOTg3NDEzMTIqCTM3NzcxMDM3NTIIMjMzODcxNTU6CTI3NTAwMjA0MUoG5YWo5qCIUABYAWABagblhajmoIhwBIABncSa8LaLiAOYAQCgAROoAQCwAQG4AQDQAZ6ujNcF2AEE4AECgAIBuAIAigMAkgMTMTgwMzg5ODI1NDgxNzExMjA2NpoDAKIDCTEwMV8zXzMuMKoDAMIDDXJ1Y2VuZV9hbnN3ZXKYBAA=",
+        "biz_encoded_params": "sw%3D%E5%85%A8%E6%A0%88",
+        "answer_count": 56,
+        "visits_count": 583526,
+        "description": "一直以为全栈（干）工程师是小厂鼓吹的，没想到大厂也在招聘全栈，比如阿里就是java+js那一套，我想问下，大厂都是螺丝钉，啥业务需要全栈啊？",
+        "title": "那些大厂的全栈工程师有用武之地吗？",
+        "native": 0,
+        "doc_relevance_scores": null,
+        "bert_rel": 0
+      },
+      "index": 19
+    }
+  ],
+  "related_search_result": [],
+  "search_action_info": {
+    "attached_info_bytes": "OnISIDc0NThkN2UyNzFkMDZmZTYyYzg5YTdlMDAyODc3NGRkSgblhajmoIhQAFgBYAFqBuWFqOagiHAEgAGdxJrwtouIA4ACAbgCAIoDAJIDEzE4MDM4OTgyNTQ4MTcxMTIwNjaaAwCiAwkxMDFfM18zLjA=",
+    "lc_idx": 20,
+    "search_hash_id": "7458d7e271d06fe62c89a7e0028774dd",
+    "isfeed": false
+  },
+  "is_brand_word": false,
+  "pendant": null,
+  "sensitive_level": -1,
+  "warning": "",
+  "filter_items": null,
+  "ab_params": "sb_edu_dnn=0;bt_text_v2=0;sh_preset_hot=0;sh_word_cold=0;bt_bge_relevance=0;bt_Related_search=2;sh_Presetctr_exit=1;sb_caowei_pkedu=2;sb_sku_caowei_v2=3;bt_sug_viewpoint=0;sb_pc_control=2;sb_kocedu=1;bt_mix_opt_v1=1;sb_caowei_zhiq=3;se_mix_timebox=0;sh_llm_cpm=0;sb_zp_huancun=0;bt_rums=0;bt_uscf2=0;sh_zp_2shua=3;sb_fs_check=1;bt_fet_mv3=0;bt_search_user=0;bt_gbm_offline=1;bt_a45=0;sh_user_rank=1;sh_offline_preset=0;sb_zhiplus_num=3;bt_dmeta_recallv4=3;se_koc_list_box=1;sh_novel_1=0;bt_pre_ev2=0;bt_sug_rank=2;sb_xg_search=1;sb_domain_q3=0;bt_pre_source=0;bt_update_emb=0;sh_ranklist_test=0;bt_mix_dnnoff=0;sb_ecpmkeyword=0;bt_sku_course=0;bt_sug_koc=0;se_edu_recall_ab=0;sh_kocthrough=1;bt_pre_emb=0;sh_zrec_jaccard=1;sb_caowei_sku=4;bt_sug_release=2;bt_adjust_creator=1;bt_stab_cache=0;bt_query_fix=0;bt_pre_rule=0;sh_ztext=0;sh_sug_tag=0;bt_nprobe=0;sh_quaigc=1;sh_kocsugcard=0;se_searchtime=0;bt_prerank_goods=0;bt_user_exp=0;sh_migrate_zag=3;sb_story_tab=2;sb_caowei_vs=4;bt_rel_dnnoff=0;bt_mix_timeliness=0;sb_ecpmctcvr=2;bt_finegrain_rule=0;bt_rewrite_opt=0;bt_rel_wqs=0;sh_novel=0;sh_presetqianghua=2;sb_slotqc=1;bt_preset_pool=0;bt_without_mix=0;bt_cache_koc=0;se_rt_test5=ff;bt_test_kk=0;adflow=0;bt_rpc_refactor=0;bt_member_mig=1;bt_2024_H2=0;bt_concept_recall=0;sh_r_time_entity=0;bt_member_rank_v1=0;bt_com_traffic=0;sh_kocsug=2;sh_sort_category=0;sb_search=1;bt_d2q_rank=0;bt_comm_ctrl2=0;sb_zp_zhongshu=1;sb_relationkey=0;bt_fet_mv2=1;bt_time_recall=0;bt_fet_stat=1;bt_sug_exp=0;sh_dialog=0;bt_refa_remdup=0;bt_dnn_refine=1;sh_mixer_opz=1;bt_bayes_migrate=2;bt_qq=1;bt_dmeta_pre=1;bt_answers=0;bt_user_intent=2;sh_haowu_xianliu=1;sb_rm_title2=1;sb_cosiners=0",
+  "item_in_view": [
+    {
+      "type": "user_survey",
+      "index": 5,
+      "token": "f789e8e4867b476c8406c1420e4e05f4"
+    },
+    {
+      "type": "ask_question",
+      "index": 9
+    }
+  ],
+  "domain_info": {
+    "first_category": "旅行"
+  }
+}
