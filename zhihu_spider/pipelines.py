@@ -26,5 +26,6 @@ class ZhihuSpiderPipeline:
             line = json.dumps(dict(item), ensure_ascii=False) + ',\n'
             self.file.write(line)
         except BaseException as e:
+            print(item['title'])
             print("错误-----------",e)
         return item
